@@ -1,0 +1,40 @@
+version: 2.1
+
+orbs:
+  # The python orb contains a set of prepackaged CircleCI configuration you can use repeatedly in your configuration files
+  # Orb commands and jobs help you with common scripting around a language/tool
+  # so you dont have to copy and paste it everywhere.
+  # See the orb documentation here: https://circleci.com/developer/orbs/orb/circleci/python
+  python: circleci/python@1.2
+  docker: circleci/docker@1.5.0
+  aws-ecr: circleci/aws-ecr@7.2.0
+
+workflows:
+  flask-builds-and-starts:  # This is the name of the workflow, feel free to change it to better match your workflow.
+    # Inside the workflow, you define the jobs you want to run.
+    # For more details on extending your workflow, see the configuration docs: https://circleci.com/docs/2.0/configuration-reference/#workflows
+    jobs:
+      - build
+  build_and_push_image:
+    jobs:
+      - aws-ecr/build-and-push-image:
+          account-url: AWS_ECR_ACCOUNT_URL
+          aws-access-key-id: AWS_ACCESS_KEY_ID
+          aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+          create-repo: false
+          dockerfile: Dockerfile
+          no-output-timeout: 10m
+          region: AWS_REGION
+          repo: 'pm-flask'
+          skip-when-tags-exist: false
+          tag: '${CIRCLE_BRANCH}-latest'
+
+jobs:
+  build:
+    docker:
+      - image: cimg/python:3.8.10
+    steps:
+      - checkout
+      - run: pip3 install -r requirements.txt
+      - run: flask user check
+  

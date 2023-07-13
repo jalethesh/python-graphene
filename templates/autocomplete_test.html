@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<input type="text" id="tags">
+    
+    <script>
+  $( function() {
+    var availableTags = [
+        {% for language in languages %}
+        
+            "'https://buylist.purplemana.com/sets/{{language.set_name}}/{{language.name}}'><img src='{{language.image_uri_small}}'> {{language.name}} ({{language.set_name}}) ",
+        
+           
+        {% endfor %}
+
+    ];
+    $( "#tags" ).autocomplete({
+      source: function(request, response) {
+        var results = $.ui.autocomplete.filter(availableTags, request.term);
+        results = results.slice(0, 10);
+        response(results);
+    }
+    }).data( "ui-autocomplete" )._renderItem = function( ul, item ) { 
+
+               return $( "<li></li>" )  
+                   .data( "item.autocomplete", item )  
+                   .append( "<a href = "  + item.label.substring(0,item.label.search("<img")).replace(/\s/g, '_') + item.label.substring(item.label.search("<img"), item.label.length)+ "</a>" )  
+                   .appendTo( ul )
+                     
+           };
+  } );
+  </script>
+{% endblock %}

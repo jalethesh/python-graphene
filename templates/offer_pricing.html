@@ -1,0 +1,94 @@
+{% block content %}
+<div style="padding-left: 20px;"
+      class="">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <div style="padding-top:20px; padding-bottom:50px">
+    
+    <h2> Generic Item: </h2>
+    <ul>
+      <li>{{gen_item.name}}</li>
+      <li>{{gen_item.item_index}}</li>
+      <li>{{gen_item.set_name}}</li>
+    </ul>
+    <img style="width:15%" src="{{gen_item.image_uri_normal}}">
+  </div>
+        
+
+  <div>
+    
+    <h2> Latest Offers:</h2>
+    
+    <table style = "padding-bottom: 50px;">
+      <colgroup>
+        <col span="1" style="width: 25%;">
+        <col span="1" style="width: 30%;">
+        <col span="1" style="width: 30%;">
+     </colgroup>
+     
+     <thead style="padding-bottom:10px">
+      <tr>
+        <th><u>Merchant</u></th>
+        <th><u>Amount</u></th>
+        <th><u>Last Updated</u></th>
+      </tr>
+    </thead> 
+    
+    <tbody>
+    
+      {% for item in latest_offers_history %}
+        {% if item.merchant != "PM" %}
+          <tr>
+            <td><b> {{ item.merchant }} </b></td>
+            <td><b> {{ item.amount }} </b></td>
+            <td><b> {{ item.last_updated.strftime('%Y-%m-%d') }}</b></td>
+          </tr>
+        {% endif %}
+      {% endfor %}
+    
+    </tbody>
+      </table>
+  </div>
+  <sub> {{ latest_offers[0].database_id }} </sub>
+  
+  <h2> Purplemana Offer </h2>
+  <div>    
+      
+      <table>
+      <tbody>
+        <tr>
+          <th><u>Amount</u></th>
+          <th><u>Last Updated</u></th>
+        </tr>
+        {% for item in (latest_offers_history|selectattr("merchant","eq","PM")|sort(attribute='last_updated'))  %}
+          
+            <tr>
+              <td><b>{{ item.amount }}</b></td>
+              <td><b>{{ item.last_updated.strftime('%Y-%m-%d %H:%M') }}</b></td>
+         
+              <!-- Make an input field contaiing the PM amount which is editable -->
+            </tr>
+        {% endfor %}
+        <div class="row">
+          <form action="/edit_pm_price" method="POST">
+            <label> Edit PM Offer: </label>
+            <input type="number" step="any" name="new_price" value = "">
+            <input type="hidden" name="generic_item_index" value = "{{ gen_item.item_index }}">
+            <input type="hidden" name="latest_offers_id" value = "{{ (latest_offers_history|selectattr('merchant', 'eq','PM')|first).offers_id }}">
+            <input type="hidden" name="latest_offers_history_id" value = "{{ (latest_offers_history|selectattr('merchant', 'eq','PM')|first).database_id }}">
+            <div style ="padding-top:20px;">
+              <button class="editPriceButton" name="editPriceButton" type="submit" >Submit</button>
+            </div>
+          </form> 
+      </div>
+          
+              
+      </div>
+      </tbody>
+      </table>
+                
+              
+
+  </section>
+  </div>
+{% endblock %}
+</html>

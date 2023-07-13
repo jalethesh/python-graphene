@@ -1,0 +1,55 @@
+
+{
+	"Request Headers (416 B)": {
+		"headers": [
+			{
+				"name": "Accept",
+				"value": "application/json"
+			},
+			{
+				"name": "Accept-Encoding",
+				"value": "gzip, deflate"
+			},
+			{
+				"name": "Accept-Language",
+				"value": "en-US,en;q=0.5"
+			},
+			{
+				"name": "Connection",
+				"value": "keep-alive"
+			},
+			{
+				"name": "Content-Length",
+				"value": "308"
+			},
+			{
+				"name": "Content-Type",
+				"value": "application/json"
+			},
+			{
+				"name": "Host",
+				"value": "localhost:5000"
+			},
+			{
+				"name": "Origin",
+				"value": "http://localhost:5000"
+			},
+			{
+				"name": "Sec-Fetch-Dest",
+				"value": "empty"
+			},
+			{
+				"name": "Sec-Fetch-Mode",
+				"value": "cors"
+			},
+			{
+				"name": "Sec-Fetch-Site",
+				"value": "same-origin"
+			},
+			{
+				"name": "User-Agent",
+				"value": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0"
+			}
+		]
+	}
+}

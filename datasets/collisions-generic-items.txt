@@ -1,0 +1,798 @@
+07/10/2021 11:33:56 beginning updates for generic items
+PHEL__Griselbrand_PROMO_106_en 0d3c824c-c20c-4708-897f-3796ec4245f9 
+OC13__Jeleva, Nephalia's Scourge_194_en 230fe340-b422-45a6-9d1c-8beb28026212 
+OC13__Roon of the Hidden Realm_206_en 3045053c-9a90-4caa-9096-9256bf007d3a 
+OC13__Sek'Kuar, Deathkeeper_210_en 3832ba9c-fe62-4b90-ae32-bde347a4c16f 
+OC13__Oloro, Ageless Ascetic_203_en 56e71e79-d340-4518-b42a-097785bfd06c 
+OC13__Nekusar, the Mindrazer_201_en 644de2a8-1684-4019-9780-bf8be8711534 
+OC13__Sydri, Galvanic Genius_220_en 757473a8-b2cc-47be-a39b-809f3e04d3ea 
+OC13__Thraximundar_221_en 7574ea35-6bd8-4615-b42a-6d90408aba23 
+OC13__Derevi, Empyrial Tactician_186_en 7b1817d5-11f6-486a-a937-f15e5d8dd2a6 
+OC13__Gahiji, Honored One_191_en 8fc19e3c-9d29-4e0d-b6cf-db00d39d8b20 
+OC13__Marath, Will of the Wild_198_en bd139009-fe5d-4189-8cde-a68ede6283fc 
+OC13__Shattergang Brothers_213_en e5dde734-16ec-4f05-a659-7cc6efa9c8d2 
+OC13__Prossh, Skyraider of Kher_204_en e6d5e182-1c99-475e-9468-5ed2fb4bfd71 
+OC13__Rubinia Soulsinger_207_en f84e8134-d0c1-40bc-8606-42ec598c1405 
+OC14__Nahiri, the Lithomancer_10_en 0d8c5514-e2b4-4952-9bfc-8bf370d98ec8 
+OC14__Ob Nixilis of the Black Oath_27_en 54a43f00-9f9d-4622-9189-93f7fe449ae7 
+OC14__Teferi, Temporal Archmage_19_en c86be64e-79d3-4ba8-8d28-f01c994a8a7c 
+OC14__Freyalise, Llanowar's Fury_43_en dd1e7fc0-e179-4519-9b17-e49d16183786 
+OC14__Daretti, Scrap Savant_33_en f895bd98-4db0-4acd-9ce5-90c78d799003 
+OC15__Ezuri, Claw of Progress_44_en 473d22bd-41d2-4b21-961c-ef73e27517cd 
+OC15__Daxos the Returned_43_en 482a5f7b-561a-4764-b0ca-be3cf2cc4c27 
+OC15__Mizzix of the Izmagnus_50_en 73b5815e-540d-4594-b4ca-97c80022b6c2 
+OC15__Meren of Clan Nel Toth_49_en b8400831-1b23-451c-bc95-8f8b511b9885 
+OC15__Kalemne, Disciple of Iroas_45_en d8b62178-9c25-4035-90d0-19fe25ca8474 
+OC16__Saskia the Unyielding_41_en 5733ce94-08d5-4288-8241-0ba5c0f99b27 
+OC16__Atraxa, Praetors' Voice_28_en 650722b4-d72b-4745-a1a5-00a34836282b 
+OC16__Kynaios and Tiro of Meletis_36_en 7b44f926-1213-4a61-9db9-7067664b0b63 
+OC16__Yidris, Maelstrom Wielder_50_en 9d64a386-d426-4897-b14c-cd0706edd2a4 
+OC16__Breya, Etherium Shaper_29_en dec79304-65fb-4064-ba39-85d04fd91574 
+OC17__Edgar Markov_36_en 61cbfcac-11ea-4c18-acfb-4a3ce11b739a 
+OC17__Inalla, Archmage Ritualist_38_en 90e30cc4-7d80-4180-9713-966f3028b33f 
+OC17__The Ur-Dragon_48_en a01f9a16-fc90-49b4-8f86-e6940e4b02cf 
+OC17__Arahbo, Roar of the World_35_en b298584e-eab0-41c6-a868-3bf72f41bf2c 
+OC18__Lord Windgrace_43_en 511e4105-1215-4dc7-a198-42a2d2036b8d 
+OC18__Saheeli, the Gifted_44_en b32b3dae-7616-46ad-b9bf-854559cda977 
+OC18__Aminatou, the Fateshifter_37_en c562ff50-f74b-4311-972a-ba62366411d5 
+OC18__Estrid, the Masked_40_en e2674ab8-6255-4901-944e-b30ca89336a9 
+OCM1__Brion Stoutarm_2_en 120a5d4e-a72a-40a5-baf1-1651be838199 
+OCM1__Godo, Bandit Warlord_4_en 1a0c2008-d4ea-4cd9-9ef9-488db5d08220 
+OCM1__Glissa, the Traitor_3_en 4f7fb05c-8b59-478c-9298-6cf8bc376557 
+OCM1__Karn, Silver Golem_6_en 80685f47-43f3-4fb9-a7ec-5d073aae9cdb 
+OCM1__Zur the Enchanter_10_en a87d21ca-79f0-4d08-8441-625aac02fadf 
+OCM1__Azusa, Lost but Seeking_1_en b96fc9e1-d0f0-4c91-a049-6fe685c15031 
+OCM1__Karrthus, Tyrant of Jund_7_en d23a170e-e248-4df8-b56a-7f04f8f923ee 
+OCM1__Grimgrin, Corpse-Born_5_en f3b7c90e-888c-4447-b4be-40b3a8c42a2d 
+OCMD__Numot, the Devastator_215_en 073438f2-0897-4226-b42a-4fd26d8f4e71 
+OCMD__Karador, Ghost Chieftain_207_en 104e146a-6acd-4371-a91d-b47aba75a41e 
+OCMD__Kaalia of the Vast_206_en 279ed2e3-3f47-4db2-95f3-61f5e0acb938 
+OCMD__The Mimeoplasm_210_en 28a5e269-cde0-4181-952c-8a53d1568c27 
+OCMD__Damia, Sage of Stone_191_en 299e20e6-6670-4904-bc62-c51acc23ee9b 
+OCMD__Teneb, the Harvester_230_en 32ba3102-c965-40e1-9d14-05642e66b34e 
+OCMD__Zedruu the Greathearted_240_en 342ccc77-ba91-48fc-9b34-2e15b9ae9467 
+OCMD__Oros, the Avenger_216_en 4119ebed-d4d0-415c-81d5-bbe9134a1dec 
+OCMD__Animar, Soul of Elements_181_en 5e03c1ab-dd9c-434a-9aa2-59a4d314579e 
+OCMD__Vorosh, the Hunter_235_en 6f3b64a3-e02e-4f16-a862-9ac5b9c6430b 
+OCMD__Tariel, Reckoner of Souls_229_en 71eee2fb-3a05-4865-b6a1-4befe9190a35 
+OCMD__Riku of Two Reflections_220_en 87d0ac34-a04d-426c-8392-6e12bdeb7760 
+OCMD__Ruhan of the Fomori_221_en ccafb9b7-c9f4-46e6-91a7-dc34849d8aca 
+OCMD__Intet, the Dreamer_174_en d04322ab-c688-451f-acc9-a45b3c912b38 
+OCMD__Ghave, Guru of Spores_200_en fe0a5552-76f6-46b6-9ac4-b5a09fa88afb 
+PCMD__Skullbriar, the Walking Grave_227_en 0ff784a8-cad2-4e81-b3a8-cf8c13cbc101 
+PCMD__Vish Kal, Blood Arbiter_234_en 926d6c8b-88c1-46f9-ba3c-5ddd8328e421 
+PCMD__Nin, the Pain Artist_213_en 992420a5-f6c4-4310-a2d0-fe6893765aa2 
+PCMD__Basandra, Battle Seraph_184_en b7d24c68-b964-40e3-87f0-92e7bae05e75 
+PCMD__Edric, Spymaster of Trest_196_en c982bc31-f100-4652-af39-18dd1998e621 
+PHEL__Griselbrand_PROMO_106_en 0d3c824c-c20c-4708-897f-3796ec4245f9 
+PTC__Eron the Relentless_mj73sb_en 00a52735-fb3b-4e61-a07f-f6d1cd433a75 
+PTC__Hymn to Tourach_ll38d_en 01b8df75-fe70-4db0-9082-0b04d198f97b 
+PTC__Control Magic_ml64sb_en 02c062d8-49c7-4f19-8fba-cadea35ddebe 
+PTC__Lightning Bolt_et208_en 02e20655-321c-4194-ab72-b4a5473238d1 
+PTC__Dark Banishing_ll119_en 0395b5d1-4feb-4b88-b294-427e7803d94e 
+PTC__Swords to Plowshares_ml52_en 04e0738b-b856-401e-8b41-096e2c48cf96 
+PTC__Orgg_et63_en 06193130-b6cf-4d8a-af99-a88b1649a898 
+PTC__Jester's Cap_ml324sb_en 0654d0cd-389f-4e7d-95a0-8763e2597845 
+PTC__Nevinyrral's Disk_et338sb_en 07011574-e1c8-443b-8f74-e4ced09f10ae 
+PTC__City of Brass_ll112sb_en 0774fd7a-c2c5-4292-8f29-6257b13248d8 
+PTC__Ashes to Ashes_ll33sb_en 07e45b7c-dc29-4c5a-8103-4cdbbd1c346e 
+PTC__Hymn to Tourach_ll38a_en 094cadeb-c9b1-47cb-b4b8-0a85d14b9007 
+PTC__Circle of Protection: Red_ml15sb_en 0aefd2af-6b1b-4c37-96c5-4497cadc7c6a 
+PTC__Karplusan Forest_et356_en 0b84d68b-72b5-4fd3-a6f9-80ac26f16583 
+PTC__Order of the Ebon Hand_gb42c_en 0bbb5e60-2a60-4575-b9c0-96a5963f5b20 
+PTC__Disenchant_et22_en 0bfcd57d-ff58-4782-b526-c03770c8a76e 
+PTC__Order of the Ebon Hand_ll42c_en 0c4568da-f47e-431b-8fcb-0dca8494852b 
+PTC__Balance_ml6_en 0caf528a-1a26-4bf2-bb82-2dbbe4681d74 
+PTC__An-Zerrin Ruins_et48sb_en 0d10002b-6142-49c7-b507-ad06634a1f3b 
+PTC__Incinerate_mj194_en 0d8bd167-5bb0-4823-b335-1fd84a51d010 
+PTC__Incinerate_et194_en 0e92c20c-a2cf-433c-b076-39b1a90fb0ca 
+PTC__Strip Mine_ll363_en 10338b4e-f801-4066-b879-f9d21b6f9553 
+PTC__Swamp_gb370_en 103538d1-1b8f-4b18-91ac-17975f353785 
+PTC__Necropotence_ll154_en 115659cd-eb77-4951-aebf-ca36063da699 
+PTC__Ebon Stronghold_ll95_en 11a23578-165c-4156-ad0d-102bb1dda2ac 
+PTC__Icy Manipulator_shr322_en 13678c8e-34cc-4e8d-883c-daac6d1afd6e 
+PTC__Autumn Willow_pp83sb_en 140efed2-2fba-4603-9ad7-f5f87d1fd6dd 
+PTC__Wrath of God_bl58sb_en 1461aca9-ebde-4a0a-8795-6eeae1741137 
+PTC__Counterspell_ml65_en 14b62ca7-2147-422e-97dd-573b474ef97f 
+PTC__Mishra's Factory_ml361_en 14dd21e1-51c4-4811-9547-3a5fb393be66 
+PTC__Fyndhorn Elves_bl244_en 158bf702-61be-483b-864c-e3ef010c10d2 
+PTC__Dark Ritual_gb129_en 16905bf2-7afe-468c-8ffd-d186a1f8819f 
+PTC__Sengir Vampire_gb160_en 17e860fd-d84b-421a-9dd2-355376d2f12b 
+PTC__City of Brass_et112_en 193db964-feea-4b66-bf31-67a92772b792 
+PTC__Strip Mine_ml363_en 1a060aea-3812-49da-b681-812fe20c023b 
+PTC__Ivory Tower_pp328sb_en 1a366864-7441-42b3-81fd-47a0362e1c13 
+PTC__Icy Manipulator_bl322_en 1a99b138-dd24-4336-b58c-b8d4e5a84997 
+PTC__Erhnam Djinn_gb64_en 1ada4a51-9f83-4b54-9dbc-67dd3476a309 
+PTC__Dark Banishing_gb119sb_en 1b974bcd-f665-4ebc-9480-8c5cdfc5906a 
+PTC__Jester's Cap_mj324_en 1d113a8c-0cbf-4c48-96f5-ad8c77947a0a 
+PTC__Lava Tubes_gb358_en 1f12466f-7474-48ca-b4d1-3463a34f9b00 
+PTC__Zuran Orb_gb350_en 20fa5839-9fbd-43ae-a782-b31676782eaf 
+PTC__Swamp_gb371_en 22b2ddff-46df-4c0c-9840-edf3d02586f0 
+PTC__Fireball_gb192_en 23aecbdf-df85-450c-8645-27219081c90a 
+PTC__Control Magic_ml64_en 256d5d58-d1d9-42ef-92d2-f3a70b291991 
+PTC__Spectral Bears_bl98_en 27340558-0a04-4f44-8ac6-9366295fe8b0 
+PTC__Swamp_ll370_en 2931ebfb-ee76-45f1-8b86-ea77775c323e 
+PTC__Sulfurous Springs_gb360_en 29880e73-5636-43ec-bcfc-7323d52fec3c 
+PTC__Zuran Orb_et350_en 2b574e64-13f2-4295-a46d-56f87d4486ea 
+PTC__Plains_et365_en 2d0ee927-f9f4-48d7-814a-5957ac71aea6 
+PTC__Arenson's Aura_shr3sb_en 2d5afd37-6fe3-4a7f-b3a2-30dcc5c6a333 
+PTC__Sylvan Library_pp273_en 2d7bdf71-5413-4841-bdfe-ab53ef55852c 
+PTC__Ivory Tower_ml328_en 2f018f7f-1150-448e-93fd-2a75a0fcb289 
+PTC__Dwarven Catapult_et51sb_en 302fc651-90f7-476d-9197-fa52c9f13923 
+PTC__Plains_shr364_en 304717bd-3c97-47d6-b2fd-e94c70655058 
+PTC__Icy Manipulator_et322_en 30624440-4d7f-4626-bf5b-356730ce2b11 
+PTC__Mountain_et375_en 3064ff57-b2e4-4152-a91d-a67e0ea71749 
+PTC__Svyelunite Temple_ml102_en 30b9d683-1944-4a72-9fc3-320da0ce2832 
+PTC__Land Tax_bl34_en 3113a395-dae4-49e2-ab8a-5fdfacd82c57 
+PTC__Feldon's Cane_ll50sb_en 311a429e-e561-49b0-91bb-865453d02aca 
+PTC__Memory Lapse_shr32asb_en 348233e7-007b-4692-b1bb-9ac97aacec14 
+PTC__Soul Burn_ll161_en 359f6e42-3435-48e5-b1ee-6333c37994fa 
+PTC__Karplusan Forest_mj356_en 35a3131e-07ce-470b-b785-dd79511a8b6a 
+PTC__Forest_bl378_en 3758e2e6-3147-4b4f-82a7-491c963c0fa8 
+PTC__Shatter_mj219sb_en 3788643f-a1f9-48ad-854b-a4ea383b8449 
+PTC__Detonate_mj184_en 39218360-83fc-4943-b336-a84738f9eaf7 
+PTC__Circle of Protection: Red_shr15sb_en 3bbd48d9-dca4-499b-8d0f-d41876814251 
+PTC__Howling Mine_mj325_en 3c76eaaf-58c9-4ef9-bf0a-7aa66397fa7d 
+PTC__Autumn Willow_et83sb_en 3ca8df50-418e-4fd7-a84f-4fddbf6a7986 
+PTC__Hallowed Ground_ml29_en 3f4eb320-3080-4343-9112-6e16cc8245b3 
+PTC__Balance_bl6_en 3f4f3c43-11bb-4678-b8fe-11e55a7d7831 
+PTC__Sea Sprite_ml38sb_en 40af5ba4-aa52-4f84-bc80-bc4f37b6787f 
+PTC__City of Brass_mj112_en 41fd8502-52cb-4675-9c5a-cb39e2b10110 
+PTC__Zuran Orb_pp350_en 4286098f-b308-4af9-97b6-7b766fe03a8f 
+PTC__Serra Angel_bl50_en 43d2148d-41d9-4af8-bf00-51213fdeeae5 
+PTC__Nevinyrral's Disk_pp338_en 4504ddf0-3e81-4655-9191-d816e92f1c26 
+PTC__Plains_bl364_en 4528641d-8e3f-4f9f-aff1-94e88cf7eb3a 
+PTC__City of Brass_shr112_en 45fcd2f3-4273-4161-8762-ce94adcc7db2 
+PTC__Autumn Willow_pp83_en 469471c7-8403-4565-bffe-bdc6662822e6 
+PTC__Dwarven Ruins_mj94_en 46ba0554-9ac1-4b2c-aeff-14d3577db4fa 
+PTC__Black Vise_mj299_en 485ee825-7d3c-490f-a092-c6fabd2c704f 
+PTC__Zuran Orb_bl350_en 4a18a609-2c36-4cc7-a4d6-de54d8608474 
+PTC__Elkin Bottle_mj317_en 4cd40772-bc3a-41de-a5f6-f64c8d945fd4 
+PTC__Hypnotic Specter_gb142_en 4d252b50-d2dd-43ac-95fb-9ccde36d3888 
+PTC__Plains_pp364_en 4d6f50a8-f210-479b-b7d3-ef01c00ea4c9 
+PTC__Millstone_ml336_en 4d7ed468-a5e1-4c81-a1e6-923080074886 
+PTC__Order of the Ebon Hand_gb42b_en 4e5b869d-26e8-493d-9081-febf3eb919cb 
+PTC__Swamp_ll372_en 4f4f94cc-eb76-4fa6-b7d5-3cca73e8691a 
+PTC__Autumn Willow_bl83_en 4fa92866-b5ff-4548-a659-935391987cc9 
+PTC__Safe Haven_ll118sb_en 50e7bbf0-d220-42be-9b6b-5a9a1d8dcc29 
+PTC__Hurricane_pp251_en 512ea719-600a-4eb3-8369-e1f51fddab59 
+PTC__Karma_bl32sb_en 51e5d628-8709-4ca8-9919-d249b08bdbbe 
+PTC__Plains_mj365_en 539f0b05-61a2-48da-913a-886bf9d97594 
+PTC__Nevinyrral's Disk_gb338sb_en 5597e4ec-e2f9-45e7-9817-b69fcd618d8a 
+PTC__Shatter_gb219sb_en 56849bf4-0fa5-4a70-bfea-85c3e6ad3802 
+PTC__Island_ml369_en 575a9059-5cdc-41ac-be5c-a6e797c4ffbb 
+PTC__Disenchant_ml22_en 58aa10e0-8dfe-4c3f-8c69-82e01f8a6be5 
+PTC__Ivory Tower_ll328_en 592c6991-2b40-4d8f-97ca-bb74ef3262e5 
+PTC__Earthquake_et189_en 59ceebd2-5772-4bbb-9d70-e9ec98633ed8 
+PTC__Havenwood Battleground_pp96_en 5a412c22-8eec-4501-a44c-190cc559e9ad 
+PTC__Jalum Tome_ll54sb_en 5a9905b3-2838-4be9-882e-8dcf6e456072 
+PTC__Dance of the Dead_ll118_en 5b5bc1a2-6903-439b-9ec6-6fdaf48d923a 
+PTC__Red Elemental Blast_gb218sb_en 5bd3480f-4428-4040-bd01-2d33425814ab 
+PTC__Fellwar Stone_et319_en 5c0b0c96-959b-4bf3-b472-9223e0fa0e34 
+PTC__Black Vise_bl299sb_en 5c0cc15b-b5e4-4bee-b8e9-86e01173c6f0 
+PTC__Nevinyrral's Disk_ll338_en 5c4ff41d-334a-4bc2-97d5-700889b4911f 
+PTC__Wrath of God_ml58_en 5cd099e6-a2c6-4297-a626-12989d9a18cd 
+PTC__Zuran Orb_mj350_en 5e73c0dc-dd10-416b-8c6c-57870ff0425a 
+PTC__Mountain_et374_en 5e8b3a6c-8a76-4998-9fd1-41d5756e4956 
+PTC__Swords to Plowshares_et52_en 5f3fe6b7-3f77-4670-bd26-2914588271c2 
+PTC__Disenchant_pp22sb_en 5f497a7f-e86b-4f1e-a733-4330616b1545 
+PTC__Stormbind_et304_en 64440639-401d-42b8-8d1a-874929d48947 
+PTC__Swords to Plowshares_mj52_en 64b295e4-bc12-4c12-9eaf-4df22b84144d 
+PTC__Sylvan Library_bl273_en 65186778-f0da-42e4-845a-2032cc4f4c0d 
+PTC__Ihsan's Shade_gb53_en 68a1c6c8-fb10-400d-8df6-1defbc465a6e 
+PTC__Land Tax_pp34sb_en 69f988b3-6503-49c1-a001-d4fe8b62f706 
+PTC__Jayemdae Tome_ml331_en 6be417a3-799f-47be-8499-927f7bbc3759 
+PTC__Swamp_ll371_en 6d2f6bcd-9360-4be8-b516-f1d0238df00b 
+PTC__Divine Offering_pp6sb_en 6d88ecf6-3e94-45fb-a109-cf143fe0f2e3 
+PTC__Plains_bl365_en 6e3231c3-57d2-47d8-97cd-65dda2bc97e2 
+PTC__Tranquility_gb277sb_en 6e75c4d7-c53b-4855-8f4d-6591a4418264 
+PTC__Feldon's Cane_ml50_en 6f8ec609-148b-4020-be5f-97fae539d6e3 
+PTC__Counterspell_shr65_en 703dc932-3f90-47e9-8d13-aad1b65f1651 
+PTC__Forest_pp377_en 7193cf41-e5c1-4060-a3e3-89f4d71e323b 
+PTC__Land Tax_ml34_en 71bbb4fe-6e3d-4c56-b3c4-7aa10c4ca0a5 
+PTC__Divine Offering_bl6sb_en 726294f3-c69a-4ea7-ad43-4f3b298e3b93 
+PTC__Stromgald Cabal_ll166sb_en 73a3933f-ba7d-42ea-9fb6-1ece4f5a9742 
+PTC__Plains_et366_en 73d7ccab-4d35-495d-a45f-b6b98d32ba03 
+PTC__Hymn to Tourach_ll38c_en 744d8398-297c-43e2-873c-ffd1df3ad624 
+PTC__Nevinyrral's Disk_ll338sb_en 7612bb9c-092a-47bd-b129-0f493480c2f3 
+PTC__Winter Orb_mj358_en 77b3a82f-ba87-4390-a630-6854f41dd1a7 
+PTC__Island_shr367_en 77c8ea02-9aff-4007-ab11-99847a1834d3 
+PTC__Serrated Arrows_pp110sb_en 783a6bd6-757e-4249-ae44-8f4e74fbaca2 
+PTC__Disrupting Scepter_et316sb_en 7895ffbf-1488-4fd7-8e9c-48fe664aa007 
+PTC__Strip Mine_pp363_en 7bd6a62b-2ea3-4002-b358-8ba42a91f37c 
+PTC__Island_shr368_en 7c029c9c-ff40-467b-98c0-38ac601b98c3 
+PTC__Anarchy_mj49sb_en 7c47c6e5-31f9-4b7c-9c8b-165ce3bd1fbc 
+PTC__Ruins of Trokair_shr100_en 7c58df9c-10b5-4b04-9495-71ce3c595514 
+PTC__Spectral Bears_pp98_en 7c8b1429-5079-4a43-83b8-ed1d43b90fd5 
+PTC__Zuran Orb_shr350_en 7cf68410-6714-4fa7-9e24-1523c30d20ee 
+PTC__Plains_et364_en 7d39625b-cfc5-439e-b888-fbd7849f47a6 
+PTC__Armageddon_bl5_en 7e33e463-4e90-4adf-ad6c-66aa8e8dd0dd 
+PTC__Ihsan's Shade_gb53sb_en 7e55cedb-731d-440a-893e-d0aebb59d1c1 
+PTC__Divine Offering_et6sb_en 7f30b7cb-b93a-450b-96f4-de2e132e65db 
+PTC__Serra Angel_et50_en 7f9595c6-7de4-4c2e-827e-668dccb0e6fe 
+PTC__Torture_ll59sb_en 836d5e41-b3f6-46ce-be0c-e54c02623cd6 
+PTC__Erhnam Djinn_pp64_en 83ba512b-d1e6-4c8f-beb1-c732855935e3 
+PTC__Elvish Archers_pp243_en 86024c56-6e0a-405c-a856-be45b7f18b18 
+PTC__Balance_et6_en 8745833d-fa67-4af7-9f35-534ad99e7bef 
+PTC__Swords to Plowshares_shr52_en 89005926-9960-49ed-b0f8-4bb202c7973c 
+PTC__Zuran Orb_ll350_en 8916bf11-3792-4c6d-bb9c-69ef5839d214 
+PTC__Plains_pp365_en 895fcea3-23a0-4442-90a2-26684cbae3b4 
+PTC__Plains_pp366_en 8a3cedf5-901b-4ea9-882b-d0058c2f9e00 
+PTC__Serrated Arrows_et110sb_en 8b498c09-8d71-4b91-a941-1cbe879559d5 
+PTC__Fellwar Stone_bl319_en 8c455dac-f17e-4d55-8190-68c81281204f 
+PTC__Mishra's Factory_shr361_en 8d4448f2-2826-461d-890b-31409aef21c1 
+PTC__Circle of Protection: Red_et17sb_en 8d6f8946-9a54-4bdd-b6ce-cf49ab7c2323 
+PTC__Circle of Protection: Red_bl15sb_en 9000170d-8114-4b7a-88aa-f75150e26334 
+PTC__Serrated Arrows_gb110sb_en 9061933e-4da7-4111-9a62-773ff3c28c69 
+PTC__Svyelunite Temple_shr102_en 9084cba0-dd0f-44b0-951f-d76f9a487e83 
+PTC__Order of the Ebon Hand_ll42a_en 9094a518-859e-40a2-90cf-48b446ceb9b6 
+PTC__Ruins of Trokair_bl100_en 9314d82b-43f1-4588-86ac-3d3b441532d8 
+PTC__Pyroblast_mj213sb_en 93d1d5c9-fcb5-4d43-bc1e-5c7ba5e22046 
+PTC__Essence Filter_pp233sb_en 943b890b-5232-43d5-b007-b5ebbc8af133 
+PTC__City of Brass_gb112_en 947eefb2-7156-4bd3-9e95-a18f87a951cd 
+PTC__Armageddon_pp5_en 94d78c11-f503-4b0b-b023-7eb24cd32ef0 
+PTC__Ruins of Trokair_pp100_en 9589bcf5-3dd2-4cdd-a56b-53771fa6c77b 
+PTC__Aeolipile_pp81_en 95964406-2c06-49ba-9c26-4c4a26947795 
+PTC__Wrath of God_et58_en 96022516-7a20-4e07-ad2f-39f76608c38d 
+PTC__Llanowar Elves_bl261_en 9636bb2a-0d7f-42d7-9757-15508baefb45 
+PTC__Circle of Protection: Green_bl14sb_en 96f45b89-4ad4-4737-892b-a7197fa25689 
+PTC__Circle of Protection: Red_ml17sb_en 96f93b93-905e-4414-8990-a023cf9b6052 
+PTC__Mountain_mj373_en 970abfee-e888-4635-90a6-2ab88910c428 
+PTC__Deflection_ml81_en 97893a10-b6ce-4de9-a678-5302bea9c044 
+PTC__Truce_shr20sb_en 97cc05bf-c3d3-4c09-8a4c-a748856b225c 
+PTC__Lightning Bolt_mj208_en 9809473d-f793-476f-ae7e-e535b6725d65 
+PTC__Divine Offering_shr6sb_en 993f038a-e222-490f-8a8c-dbebd945bf44 
+PTC__Icy Manipulator_pp322_en 9a0503f2-4cb4-4891-a306-d6f7b88e4ac2 
+PTC__Swamp_gb372_en 9a63a791-ad18-4d96-a0e7-e6b46cc3b4c6 
+PTC__Zuran Orb_ml350_en 9ac48b59-c129-4208-aae3-88fd13203e37 
+PTC__Hymn to Tourach_gb38c_en 9b404906-bdfc-4c6c-8daa-d4e7195d2072 
+PTC__Order of Leitbur_bl16b_en 9ce57ca9-4f95-421d-9112-7da35130e431 
+PTC__Ring of Renewal_et89sb_en 9d44967f-7739-4f63-a93a-e7277d9cc2a9 
+PTC__Icy Manipulator_ml322_en a2e64c3e-9702-4e81-8a9e-0ffbf0b529eb 
+PTC__Serrated Arrows_mj110sb_en a3bcb2d3-b65d-4b64-b78d-0697d7e18386 
+PTC__Power Sink_shr93_en a3c0c583-f83b-4990-8958-0331fbd88928 
+PTC__Wrath of God_shr58_en a45d5391-14db-4f14-b5c2-28aa5b96cf66 
+PTC__Circle of Protection: Green_bl16sb_en a485302b-33f8-41d5-9ee2-6af149286212 
+PTC__Mishra's Factory_pp361_en a4d9c106-6aa4-4f5e-9049-741b50ad54b3 
+PTC__Reverse Damage_et45sb_en a63b4cc3-d069-4bfd-97db-b911dfc89061 
+PTC__Drain Life_ll132_en a6832783-8d51-4858-9b7d-bb6c929fb0e7 
+PTC__Whirling Dervish_bl288sb_en a69975b4-f585-4c68-809c-7180991bd33f 
+PTC__Hymn to Tourach_gb38a_en a69c6efc-8d8c-4dc5-968a-29be6205e195 
+PTC__Mountain_mj374_en a6e00407-8290-4924-afe8-424517867a93 
+PTC__Plains_ml365_en a7394e45-797f-4991-98b2-6570eaf82c81 
+PTC__Brushland_bl352_en a7b19e1c-b74f-4608-ad8f-9c82292ceea2 
+PTC__Knight of Stromgald_gb138_en a7bf2c9c-f518-42d3-a15a-ef3587a16dcb 
+PTC__Karplusan Forest_gb356_en a7c620cf-4d0e-49dd-92fe-87245940bf6f 
+PTC__Disenchant_shr22_en a7e905ae-9782-4eb0-bd06-8766f0f43718 
+PTC__Fellwar Stone_pp319_en ab2b620d-7585-47c4-a876-6d9e85ab889e 
+PTC__Circle of Protection: Black_shr14sb_en abd19089-8795-4ea3-a95a-707edd4d071d 
+PTC__Mishra's Factory_gb361_en ad1577a3-a350-45e3-af3d-62c85207514f 
+PTC__Autumn Willow_et83_en ad92c3f6-f3e6-4dc8-b7a7-38e4f80dee8a 
+PTC__Armageddon_pp5sb_en b0101665-a0ff-4253-acfb-88ed32785dc5 
+PTC__Ivory Tower_bl328_en b0366004-6686-47bd-a531-1042a8cce2ed 
+PTC__Apocalypse Chime_et101sb_en b1ef190d-a116-4c85-9905-95fa427b146d 
+PTC__Abbey Gargoyles_bl1sb_en b1fe1429-d008-4a41-b16f-b823d5979026 
+PTC__Wizards' School_ml115_en b30d026a-4bb4-4dd8-9786-e60ff8f02e3b 
+PTC__Fellwar Stone_mj319_en b6730423-602b-4a45-9644-c6864f031100 
+PTC__Brushland_et352_en b6b28a55-23a0-4b5d-b7d3-b9df7e4a7718 
+PTC__Havenwood Battleground_mj96_en b6dc1a4c-f37b-40c5-9178-e4713186591c 
+PTC__Hydroblast_ml72sb_en b6ea7e24-a8eb-4c09-ae2e-9404716042e1 
+PTC__Erhnam Djinn_bl64_en b7e0a495-53c8-4c0a-953d-ccb26dd19e84 
+PTC__Jalum Tome_ll54_en b99b8f26-8150-4d9d-945f-094e6b7522ab 
+PTC__Detonate_mj184sb_en ba0eb973-7360-473b-b959-40d54bcfd754 
+PTC__Hypnotic Specter_ll142_en ba265155-3d11-4235-936b-2754ba79a4ab 
+PTC__Stormbind_mj304_en bb29f007-3321-4807-9e0f-047555301d22 
+PTC__Plains_shr366_en bc14d179-1833-4364-a2e8-c94851df0b67 
+PTC__Aeolipile_ml81sb_en bce4ea1f-8a00-47ea-b707-f4fa403de6ad 
+PTC__Serrated Arrows_ll110_en bf1bb9b5-5781-487a-9264-a172270ca1ba 
+PTC__Memory Lapse_shr32bsb_en bf9c4e40-ff50-4837-ae11-1670d637bcfb 
+PTC__Blinking Spirit_et8_en bfbab7f8-6fd8-4aaa-bd0f-0a1ecd247547 
+PTC__Fountain of Youth_ml98_en c111cfb7-4861-47d4-be1e-0d208f044808 
+PTC__Apocalypse Chime_ll101sb_en c52caafd-1212-4da4-8a09-7bf12186559a 
+PTC__Sea Sprite_shr38sb_en c5fe1d28-b628-48dc-823b-7e5843918001 
+PTC__Disenchant_bl22_en c6c83935-113a-43f1-a05c-ba177c835df8 
+PTC__Birds of Paradise_et234_en c81ba510-634c-42aa-9797-769526114821 
+PTC__Abbey Gargoyles_shr1sb_en c8b9f96f-e5ea-44c3-b608-1634a85d4fff 
+PTC__Energy Storm_et24sb_en c8e9bfa8-4f74-49f8-8daa-9ee1f481ba99 
+PTC__Forest_bl376_en c9a8b574-280b-452a-98c9-cd775650d59c 
+PTC__Karma_pp32sb_en c9b8d4fc-9654-47ac-a7e5-c17d86105796 
+PTC__Swords to Plowshares_et52sb_en c9c10b68-7ac5-4c0a-8fe5-f76da619a04b 
+PTC__Serrated Arrows_ll110sb_en c9cf9dc0-9a17-441a-bb99-5d01d568d09d 
+PTC__Land Tax_pp34_en cabbe5b4-3e83-4280-853b-de540e401d1f 
+PTC__Hymn to Tourach_gb38d_en cbf78442-c80c-43d5-8898-20312eb7c9af 
+PTC__Plains_mj366_en cc623027-2b5c-489a-9bfc-763d678832d6 
+PTC__Fellwar Stone_pp319sb_en ce186c37-4a8c-48e5-9a24-69eef4d5be27 
+PTC__Steal Artifact_ml105sb_en ce77348d-4bef-411c-931d-9c3838091323 
+PTC__Island_shr369_en d0561d43-cda2-4497-ae19-b1968db179e0 
+PTC__Ivory Tower_shr328_en d0a27482-7b08-4ed8-ae4b-9eaa6bed2019 
+PTC__Mishra's Factory_et361_en d0dcf152-916e-4603-a688-7a05b57d1b4c 
+PTC__Island_ml367_en d0e6b214-520d-4830-8d73-09fd2fdd8e69 
+PTC__Jayemdae Tome_et331_en d102fea4-e43d-42df-b5e6-31c8007658ee 
+PTC__Brushland_pp352_en d147d333-0172-4247-aec3-99c741123005 
+PTC__Land Tax_et34_en d227b319-c39a-4e50-84e4-a4b96d919ccd 
+PTC__Fireball_mj192_en d2446fd4-8287-4f7f-8d60-f8a422aad3b6 
+PTC__Balance_mj6_en d2823b1d-39bf-41ee-8e8b-99f12797408e 
+PTC__Erhnam Djinn_et64_en d3149f05-f466-4994-8546-3774a8beb156 
+PTC__Fountain of Youth_mj98sb_en d4ffa89b-e0ce-4354-bebe-1ffa4d6d6ed0 
+PTC__Serrated Arrows_ml110sb_en d66c1eca-35fb-47a2-955e-c6677e083c8b 
+PTC__Hymn to Tourach_gb38b_en d6b51cfd-bfca-427c-83c2-b35ca7544f83 
+PTC__Order of the Ebon Hand_ll42b_en d75deb74-2322-4179-9467-955eb96ca4a3 
+PTC__Wrath of God_pp58_en d7eba1b7-cc6c-4624-9a6f-425b717afe87 
+PTC__Adarkar Wastes_shr351_en d8bea7e5-3993-4e7f-a9bb-79a73ea8224e 
+PTC__Hymn to Tourach_ll38b_en d9456bf8-e4eb-4979-b483-e6e9aab84f87 
+PTC__Plains_ml364_en da033f5a-bc5a-4d99-ab25-4055eef56cf7 
+PTC__Adarkar Wastes_ml351_en db0d0f97-a642-40fe-8674-f12b8e02a63d 
+PTC__Strip Mine_bl363_en db56ca7b-1bdc-49ae-adc4-cb0edba51416 
+PTC__Blinking Spirit_ml8_en dca912d1-9123-4b0d-863d-c7ee12bfdbcc 
+PTC__Plains_bl366_en dd29103a-f34a-4d4e-83a8-93a1a590d3c5 
+PTC__Forest_pp378_en dd5acc74-456a-4299-8316-58c0ced0d628 
+PTC__Swords to Plowshares_pp52_en ddeb2ed7-1dc6-443c-85b3-ba8edaa4a60b 
+PTC__Mishra's Factory_mj361_en de2f8b1a-a29e-4596-8ebe-5fdb6ce15b5a 
+PTC__Fireball_et192_en de31e101-7dd4-4ba1-af95-f722b0ba0ec1 
+PTC__Icy Manipulator_mj322_en df84d2d6-34a1-4d0c-92f4-aba6a788087e 
+PTC__Divine Offering_ml6sb_en e0a2bab3-0096-4010-ba90-146d8f05c444 
+PTC__Disenchant_pp22_en e163bf1c-448f-4669-812b-f22e53d404f7 
+PTC__The Rack_ll352sb_en e2cc6b86-9094-4f82-a5ea-1d8a06a4e013 
+PTC__Shatter_mj219_en e46f5d83-ada1-4cff-a1a9-bdf758fc1d7b 
+PTC__Icatian Town_et15sb_en e6ebd5ea-df3f-4cea-bdd1-97ff1776630a 
+PTC__Order of Leitbur_bl16csb_en e70f7a79-295e-49c4-8954-691e0b9c9190 
+PTC__Spell Blast_shr103_en e73accb6-de56-406c-b88e-43c32a1fa74b 
+PTC__Land Tax_shr34_en e750d05f-cae7-4f06-a9e4-67bac7bdf564 
+PTC__Ruins of Trokair_ml100_en e766c017-6e0a-4e9a-a5a7-36ce51aa3abe 
+PTC__Plains_shr365_en e86b943e-0c07-4b5c-a850-857a86d59c57 
+PTC__Knight of Stromgald_ll138_en e89b4384-6176-463a-ba43-5921d3dc84cb 
+PTC__Swords to Plowshares_bl52_en eadd0f51-703f-4235-af9a-74a1d8aeec50 
+PTC__Earthquake_mj189_en eaf14be9-b943-4002-b29d-a5e03bcb89ef 
+PTC__Wrath of God_bl58_en eb3f9eac-0fa2-40ed-9ecc-daf6c7c7be2f 
+PTC__Order of the Ebon Hand_gb42a_en ec7ad4d6-e07c-477b-ba8d-630867a08603 
+PTC__Recall_shr24_en eca2b290-a59b-4961-8e06-78d73fcd0b58 
+PTC__Mountain_mj375_en ed37e1e0-ed21-45c3-8266-c6b11068ceb6 
+PTC__Forest_pp376_en ed4addef-4649-401f-9810-c331ffeb8cf6 
+PTC__Lightning Bolt_gb208_en edd88c4f-58bd-4920-b41f-037462b54915 
+PTC__Recall_ml24_en eeebf5c5-9143-4499-862b-73dab080077a 
+PTC__Order of Leitbur_bl16a_en ef37f9bd-25bb-46e6-80a0-60948232a2ac 
+PTC__Mountain_et373_en efc70226-2926-4bc5-a602-c5d56f0cfc52 
+PTC__Barbed Sextant_gb312_en f079de04-0393-408d-b420-c4538f2f53fd 
+PTC__Feldon's Cane_shr50sb_en f1907412-b771-4feb-bd3f-13739d812576 
+PTC__Steal Artifact_shr105sb_en f1d9eb2b-d80b-41e2-924f-93d112e0e104 
+PTC__Reverse Damage_pp45sb_en f1eb6190-0fa9-4e06-b63e-8b52c3a6723b 
+PTC__Plains_mj364_en f2bb7059-588b-4ba6-9ad0-78169e4e4483 
+PTC__Zur's Weirding_et110_en f40b592f-325f-47ee-81b2-c1e1bdd3a344 
+PTC__Balance_pp6_en f48bc615-b40c-4c9d-9eda-a4f1cae6ac75 
+PTC__Havenwood Battleground_bl96_en f5dee390-c16e-4b97-afe3-ef16f97a79f2 
+PTC__Balance_shr6_en f5f345ec-d0a5-461f-b78f-5f888c6a828b 
+PTC__Dark Ritual_ll129_en f688acae-aba5-48fb-b69f-6f93549b4149 
+PTC__Fountain of Youth_shr98sb_en f9d832e9-3a55-497a-9ccd-cc83f862236b 
+PTC__Island_ml368_en fa2a8e84-2a04-444a-8551-5f2931f4a711 
+PTC__Icatian Town_et15_en fa779cce-f112-4a58-b87d-46445848793b 
+PTC__Circle of Protection: Red_bl17sb_en fae98ec1-7bb5-49aa-a7f5-0a6232a366ee 
+PTC__Plains_ml366_en fb0f2cf5-801d-49b2-b365-3129f53948dc 
+PTC__Forest_bl377_en fc141ede-0aec-48af-a24e-237fdc16cb7f 
+PTC__Ivory Tower_mj328_en fd8a1cb0-d748-45c1-90fb-6cf80c08d56d 
+PTC__Meekstone_ll335sb_en fdd20043-18e0-4e1f-9f9c-b5929ea3c7e7 
+PTC__Feldon's Cane_mj50_en fe3a92db-10be-4e80-8728-dfeecd160b1d 
+PTC__Millstone_shr336_en ff28368e-9a64-40f3-bb87-029af0137fbd 
+WC00__Priest of Titania_jk270_en 04130251-9950-4710-9f20-3953daae9e05 
+WC00__Creeping Mold_jk220sb_en 05a4b6c1-df65-4bb2-b295-df35fb20c42a 
+WC00__Birds of Paradise_nl217_en 06ee339e-a912-4f7c-b091-eba71ab68bbc 
+WC00__Counterspell_tvdl61b_en 0a448077-3b1f-4efd-a606-e3ff40fe1621 
+WC00__Daze_tvdl30sb_en 0a86c10e-95e0-4efd-a6d9-0ecfc0c318c2 
+WC00__Grim Monolith_jf126_en 0ba4acad-31d4-497b-9b07-bf4beebf6647 
+WC00__Attunement_tvdl61_en 0c01e2bc-0415-43cf-b955-9a529d0ab20f 
+WC00__Llanowar Elves_nl239_en 0eb7213c-f6e4-48cb-870a-13b80ba73b8b 
+WC00__Metalworker_jf135_en 10f6e07b-36c1-429b-a857-ada8c643556c 
+WC00__Seal of Cleansing_nl18sb_en 119d05de-5043-4fc3-ade4-78816cb75420 
+WC00__Erase_tvdl7sb_en 12113f47-eff7-4923-a5f9-32d36f1894d8 
+WC00__Plains_tvdl331_en 14afb1a4-753d-4ff4-b283-a7482401b509 
+WC00__Forest_jk347_en 1841ca54-d7d5-4c02-9c8b-5f59dce33a6b 
+WC00__City of Brass_nl321_en 18b08510-9cf4-4723-96f3-d1a873d710a4 
+WC00__Opalescence_tvdl13_en 1a2f4972-8987-4349-953d-1e5c71368b08 
+WC00__Splinter_jk121sb_en 1a94528b-a7f3-4eaa-bb6d-103e72cff3ee 
+WC00__Masticore_jk134_en 1b5a3ad3-c20d-4f01-8c00-e1836046be50 
+WC00__Cursed Totem_tvdl278sb_en 1e58f0fc-74d1-4915-b04f-14adf442c90b 
+WC00__Wrath of God_tvdl54sb_en 214689d4-f6de-4f4a-b8b6-71281246add3 
+WC00__Academy Rector_nl1_en 21aa9f50-face-4f2d-860d-9cd51a1b36d7 
+WC00__Worship_nl57sb_en 253d5ce1-9f91-4bee-816c-7b63da4f7a0e 
+WC00__Chill_jf60sb_en 25e92f8a-cc7e-4398-8aa4-280aaa525e94 
+WC00__Voltaic Key_jf314_en 27831255-0adf-4c34-bd04-9807200c44c3 
+WC00__Pattern of Rebirth_nl115_en 29bd037d-a949-4588-ba4b-c6d01b18d85b 
+WC00__Wrath of God_tvdl54_en 2b2a1298-1dad-45e0-9d6a-21d90c7af7a3 
+WC00__Parallax Wave_nl17sb_en 2e43b153-70eb-42ff-bb35-ebc468560b9a 
+WC00__Creeping Mold_jk220_en 2faace6b-a2bf-412b-beeb-9dd176bb89bb 
+WC00__Stone Rain_jk209_en 335b5f0e-b278-41b5-8d41-70a7609e7b44 
+WC00__Yawgmoth's Will_nl171_en 3425067d-89c6-4ae3-b895-662c4c077101 
+WC00__Phyrexian Processor_jk306sb_en 34cefcd1-9aa2-4c34-ba68-736c7889cc92 
+WC00__Thran Dynamo_jf139b_en 374c9fc8-081d-4b14-9db8-be1a63abb68f 
+WC00__Llanowar Elves_jk239_en 392451d6-073a-49e3-9691-caac457e3d48 
+WC00__Mishra's Helix_jf302_en 3969fcec-ec92-4c64-9036-d94da6824203 
+WC00__Fecundity_nl251_en 398dbcb6-a381-4968-bc88-eeff66436fd6 
+WC00__Karplusan Forest_jk326_en 3b31582c-ffa5-43e4-866a-30dc1e6012d7 
+WC00__Circle of Protection: Black_tvdl8sb_en 4c0b0e01-1190-451c-b83c-14fcc5754f7b 
+WC00__Avalanche Riders_jk74_en 4d64f5d5-90f9-445f-8d79-cf91775eb004 
+WC00__Forest_nl347_en 4e811a02-b749-4aed-ac7f-47957b770020 
+WC00__Thran Quarry_nl329_en 5203aa0b-f5bb-4e4e-8cee-d4492ab679d0 
+WC00__Phyrexian Processor_jk306_en 554fdc29-279d-4297-b8d3-01d90c96c7ba 
+WC00__Phyrexian Tower_nl322_en 566e84c2-c6b6-429c-8a31-ffc99cebc396 
+WC00__Chill_tvdl60sb_en 5b19b8d3-21a1-4de7-a6bb-e84e34997ab6 
+WC00__Birds of Paradise_jk217_en 5d718a96-b124-405d-891e-7e58565a17d5 
+WC00__Blaze_nl168sb_en 5f0691b3-65ff-4ad7-aeb9-0f6d9533dd9d 
+WC00__Saproling Burst_jk113_en 675a531a-072d-4a59-ac72-5b3a04d1ec3b 
+WC00__Saproling Cluster_nl114_en 681224b6-ddf1-4405-8720-951c0fce44a5 
+WC00__Replenish_tvdl15_en 6c900f34-1bd2-43c7-be33-cf5cc02a62ea 
+WC00__Phyrexian Processor_jf306b_en 6cd99a2f-d20a-409e-9cf7-b3eb4399c8b8 
+WC00__Energy Field_tvdl73_en 6ddfbe2d-f8e4-4575-9380-c0e438ce1a04 
+WC00__Saprazzan Skerry_jf328_en 6f21feef-341c-4e1d-89c0-c3282a98bd31 
+WC00__Mountain_jk343_en 6f29a2bf-75e1-4361-8a44-510d79323186 
+WC00__Meekstone_nl299sb_en 77b28da8-6d3b-4ffe-9bf0-e42ed030bfbf 
+WC00__Rack and Ruin_jk89sb_en 78ac2f29-88bd-447d-b668-876c7261294d 
+WC00__Frantic Search_tvdl32_en 79e5bc79-2a98-4389-9424-be01f8beeb81 
+WC00__Armageddon_nl4sb_en 7d7fe679-a998-4f0a-84f8-f57810a4d3bc 
+WC00__Enlightened Tutor_nl19_en 7e3637e8-586d-4828-b2e3-781f31f18754 
+WC00__Blastoderm_jk102_en 89627d96-8da3-4fda-9db9-a14a194cae93 
+WC00__Defense Grid_nl125sb_en 8e4071b1-1633-4dab-b30a-01d414c13ef3 
+WC00__Rishadan Port_jk324_en 97fb2b27-baa6-49be-8492-feea4db0e694 
+WC00__Seal of Cleansing_tvdl18_en 9da5087e-8c20-44fe-bbbb-76e85849b654 
+WC00__Dust Bowl_jk316_en 9ef93e7a-e799-4c73-b5a1-38b91f368072 
+WC00__Absolute Law_nl2sba_en 9fc78f1d-a191-4182-8064-8970ec47a525 
+WC00__Masticore_jf134_en a1052d7d-374d-45c3-91d1-ffa38d2e5088 
+WC00__Enlightened Tutor_tvdl19_en a40e9086-5fe0-4b31-bb66-f29f78ddf7eb 
+WC00__Heart of Ramos_nl296sb_en a4951312-fab1-4cf3-9dfb-24a5f795fdb1 
+WC00__Rishadan Port_jf324_en aca4efed-4cb1-4fb0-be0d-2ab6bfac4e24 
+WC00__Mystical Tutor_tvdl83_en acc71b62-0635-43e5-9ebe-b8e77c74e232 
+WC00__Seal of Cleansing_tvdl18sb_en b15100e8-e6d1-4db4-aee4-f1e6d6924ed2 
+WC00__Arc Lightning_jk174_en b158aa08-3612-47d5-ae43-3d0cc4d3d5e3 
+WC00__Confiscate_nl66_en b2e0df8e-1b09-4a50-860b-a05c27039344 
+WC00__Priest of Titania_nl270_en b670259a-d4b7-4111-99a7-d91f5b42181b 
+WC00__High Market_nl320b_en b8dd6dfb-9c37-4fef-b7c9-d13ad73b2bbb 
+WC00__Parallax Tide_tvdl37_en b951c950-5933-4943-b6ce-41aee58373fb 
+WC00__Serra Avatar_nl45_en bcab2e1e-6190-4d84-84b2-ae0ec34488de 
+WC00__Submerge_tvdl48sb_en bf61da65-e26e-414e-a3f0-727c149210d3 
+WC00__Tangle Wire_jf139a_en bff41c6f-dfa3-44cb-bdd8-7d2629605e0e 
+WC00__Island_jf335_en c3020976-1654-45c4-bbf1-972a22d79859 
+WC00__Whetstone_nl316_en c3e292fd-62f7-4805-8c83-86fa6c15aa0f 
+WC00__Light of Day_nl29sb_en c3e8df9a-677c-4d8d-8955-588f2bcdb611 
+WC00__Phyrexian Processor_nl306sb_en c49eed6b-d446-4ce1-ab51-6f42e145b1a7 
+WC00__Flameshot_jk90sb_en c5088b0b-83ff-43d6-aaa8-d56250f3bf99 
+WC00__Crumbling Sanctuary_jf292_en c8473918-46f5-4b72-9eb3-bd31f7a2602e 
+WC00__Lilting Refrain_tvdl83sb_en ca9b748d-818b-454c-a6c2-3265fb76ab8f 
+WC00__Brainstorm_jf61_en ca9d4ab7-dc9c-4857-b25e-62ce53bab937 
+WC00__Mishra's Helix_jf302sb_en cb03cb73-2852-4231-a4ee-68f5e207636f 
+WC00__Masticore_jk134sb_en cb4dfff8-ec31-4f7e-999f-3b338ffa57b5 
+WC00__Rising Waters_jf38sb_en d6c926b8-d32f-4495-a921-7eb26cdc5b73 
+WC00__Brushland_nl320_en dcb5474f-a842-4e8a-af3b-75bd12b758f5 
+WC00__Crystal Vein_jf322_en ddc150ee-b2ae-483b-be8e-503000e2884d 
+WC00__Energy Flux_nl78sb_en ddd7fe52-4ec0-4582-b80a-3524a0d2426c 
+WC00__Seal of Removal_tvdl42_en de4c651d-e739-4a79-8628-5f681b099ca8 
+WC00__Uktabi Orangutan_jk260sb_en e25e1596-07f2-4f73-8840-42acdfa8702f 
+WC00__Yawgmoth's Bargain_nl75_en e436cb0d-c3b4-4c5b-a0a3-c22ef3245a1f 
+WC00__Adarkar Wastes_tvdl319_en e653b15a-8ed8-4f80-a8a1-a669c948d5d6 
+WC00__Aura Fracture_nl2sbb_en e8daff79-b4df-45a9-bfec-d1d71a726222 
+WC00__Snake Basket_nl312_en e992d139-1b53-42f1-ab9b-9d8df0c1fe73 
+WC00__Tinker_jf45_en eb5f5899-f93d-4635-a302-bf92722890ac 
+WC00__Rishadan Port_tvdl324_en edae0794-9725-4d4a-8e64-29e5dd6fb809 
+WC00__Parallax Wave_tvdl17_en ee88fd61-900d-49cb-a967-52fad325b6c5 
+WC00__Sky Diamond_tvdl311_en f8a28252-e904-4ac4-978c-64cc5241293d 
+WC00__Ashnod's Altar_nl274_en fcb40669-c196-4ed7-aba0-1ef89ec7d1c8 
+WC00__Phyrexian Colossus_jf305_en fcda7ea8-2e18-433d-9490-a61bab2f327a 
+WC01__Forest_jt348_en 09bf63e1-fe77-4d5e-b557-13eecfbc42b4 
+WC01__Kavu Chameleon_jt191_en 0a3034f2-a4dc-42f3-8e68-9407dabad540 
+WC01__Fire // Ice_ar128_en 0a76d227-c899-409f-a01b-d3ca16b56ddc 
+WC01__Prodigal Sorcerer_ab94sb_en 0d653d65-46e4-4b08-b72f-716b9fc8b8fe 
+WC01__Persecute_tvdl154sb_en 0d714006-281a-448a-ac69-9d3ecbaccfac 
+WC01__Sulfurous Springs_tvdl345_en 160479a6-e18e-4728-84ca-d9f3a72f48ff 
+WC01__Karplusan Forest_jt336_en 17dcc79a-ca76-463a-a9ac-3b5ea60aaaca 
+WC01__Island_ar336_en 17fefdc7-2f7c-4a63-8683-3dff21b4bb76 
+WC01__Counterspell_ab69_en 180fa82e-9e25-4a9c-b9a7-3e1dffaaa5ea 
+WC01__Forest_jt349a_en 192ac805-deb4-4275-8473-01b5abb7b385 
+WC01__Island_ab335a_en 1b82c807-dbda-42b3-a1a1-0c4ef72f1683 
+WC01__Island_ab336_en 2184c71a-b944-490e-ae2e-539bac3c0e57 
+WC01__Mountain_jt343_en 2472bfbc-ab29-455d-8ce4-7faa2cd33abc 
+WC01__Sulfurous Springs_jt345_en 249a844d-0e93-4ee0-abb5-c69bce2d6708 
+WC01__Vendetta_tvdl170_en 2593e33c-9f54-4929-b256-41ce954e9612 
+WC01__Island_ab338_en 2b3a671c-8b0b-45ea-9d65-095c19174e88 
+WC01__Fires of Yavimaya_jt246_en 2b9006f6-a436-49d9-bb6a-886093e92cf5 
+WC01__Swamp_tvdl341_en 2cf4d911-6aad-4007-9735-40d125496aec 
+WC01__Island_ab336a_en 2dcdcb91-bf08-4f40-9391-2824e905d5d4 
+WC01__Forest_jt348a_en 2e3019bf-c69e-4c61-b3d1-a8c4967031bb 
+WC01__Plague Spitter_tvdl119_en 2e95799c-cedb-41d3-8879-97769cb8fe9b 
+WC01__Crypt Angel_tvdl97_en 31aca3b5-228f-4020-9f4a-60ffe8023fbb 
+WC01__Mana Maze_ab59sb_en 31e6cb6c-0055-4799-b96a-31c9c6337be4 
+WC01__Nether Spirit_ar149_en 32feab58-73c4-4cb3-a698-80623baeedc0 
+WC01__Forest_jt328_en 34fa98a0-5dce-4914-a827-964c4a596ed5 
+WC01__Urza's Rage_jt178_en 37a3fec5-d3ee-4822-8e5b-63264edd0302 
+WC01__Island_ab335b_en 39180d5d-9e76-4ea3-a906-aeb28974e7a6 
+WC01__Pyroclasm_tvdl209sb_en 3a66dc1f-a379-4d8f-ae00-f2cff5edfa9c 
+WC01__Opposition_ab92_en 423af054-c57e-4b2f-9019-c663734b96b7 
+WC01__Tsabo's Assassin_ar128sb_en 44a3a729-f8bd-47e1-b5b7-8931316f7ed2 
+WC01__Salt Marsh_ar326_en 44c455b1-7cd7-45e6-aa4b-6aab16b64861 
+WC01__Counterspell_ar67_en 4652c51c-881f-4732-872d-17f60847ef29 
+WC01__Swamp_tvdl348_en 47c4fa0e-cfd8-416a-8d88-9bd0791e7f5d 
+WC01__Terminate_tvdl128_en 483324e1-a5da-45b3-8f25-478f0ae3f08c 
+WC01__Lobotomy_ar255sb_en 4968c2db-f817-4156-9942-bc1b25ff6182 
+WC01__Merfolk of the Pearl Trident_ab90_en 4b6211ac-ffbf-4d89-84a5-2b60a344d51e 
+WC01__Swamp_tvdl339a_en 4dab8252-5f15-4b83-a167-039ad64c95e4 
+WC01__Island_ar337_en 4ee1fe3a-8a5c-4198-b352-9958bc75e364 
+WC01__Island_ar335_en 4f058a5c-b9fd-4b3c-908f-41a2a4f788fa 
+WC01__Misdirection_ab87sb_en 5052be7a-01cf-4f9e-bf63-dab56214ea69 
+WC01__Phyrexian Scuta_tvdl51_en 52b46846-a320-4b82-a440-f96c84426938 
+WC01__Counterspell_ab67_en 5323b7eb-976b-49fa-bc95-53337b43f9a3 
+WC01__Urborg Volcano_tvdl330_en 53d2b46e-4762-4496-994c-dab421f74a40 
+WC01__Sulfurous Springs_ar345_en 547f2f4a-c611-44d9-9f2c-83435a75c29d 
+WC01__Flametongue Kavu_tvdl60_en 5762354f-5623-4d2b-83b0-299ce1419aea 
+WC01__Island_ab333_en 592a619f-1236-4085-b7e1-c093ce13f1a4 
+WC01__Flametongue Kavu_jt60_en 5a813c2d-6a20-4a9b-b437-42ed963b1d9f 
+WC01__Rishadan Port_tvdl324_en 5ad6a1db-ddba-4fbd-81e7-c59e78fc6d68 
+WC01__Wash Out_ab87bsb_en 5d24dd92-c20c-4969-bc42-e301bc43ffa3 
+WC01__Mountain_jt343a_en 5d3b9039-ffd0-4265-9854-9c722c88a40f 
+WC01__Undermine_ar282_en 6268e570-5dd8-45ed-a3dc-387377410d26 
+WC01__Rishadan Port_jt324_en 6949fe68-f895-4c91-945c-8e473a6de2bf 
+WC01__Thunderscape Battlemage_jt75sb_en 6b26fa12-82b3-4fa8-807e-12dd53ce7758 
+WC01__Merfolk Looter_ab89_en 6b667700-9ea2-42cb-8d79-423272dd46b9 
+WC01__Opt_ar64_en 6e2ff7a5-ddd4-4581-93ea-2069a2d0dedf 
+WC01__Island_ab334_en 7059baa6-351a-42ec-966f-5741cfcd6371 
+WC01__Island_ar338_en 70c60105-d32e-4e53-b408-aeba336d8e24 
+WC01__Llanowar Wastes_jt141_en 712aff1a-a816-4f0c-9bbe-41f94f504614 
+WC01__Swamp_tvdl347_en 72dbb928-fa14-4c91-b9d9-ed3787309fc9 
+WC01__Tsabo's Web_ar317_en 7345b088-b89e-45b5-82ce-77985eeff174 
+WC01__Obliterate_jt156sb_en 74c5f897-9ff9-4fdf-9820-45a61e5dce75 
+WC01__Birds of Paradise_jt231_en 75a4cad2-4367-4084-8fe5-f85e49ca828d 
+WC01__Scoria Cat_tvdl101sb_en 784badd7-9803-49b8-a675-aa34dcf267d6 
+WC01__Forest_jt329_en 794b8b40-8cab-413d-8638-011bf769f2e2 
+WC01__Blastoderm_jt102_en 7d583168-33f4-4a2b-9f9e-117050debb76 
+WC01__Underground River_ar350_en 7f9df5cb-af3f-42b1-b88d-1747e020e6c9 
+WC01__Mountain_tvdl343b_en 80a372c6-cc5e-44f4-afab-2fd56aa79920 
+WC01__Mountain_tvdl337_en 81c49cb2-ceb4-41e0-b3a6-d7820a01c92c 
+WC01__Mountain_jt337_en 8210d0bb-1309-4de2-bd46-58759c72158f 
+WC01__Fire // Ice_jt128_en 841b28eb-e16b-434e-aaaa-6a5ae8bccc19 
+WC01__Static Orb_ab319_en 85bb785b-c91c-4ae0-9775-bee39ec132eb 
+WC01__Crosis's Charm_ar99_en 86c015cf-3daa-40f6-9416-06678fa2800d 
+WC01__Thornscape Battlemage_jt94_en 88b9281b-471a-4491-84bb-dbdd48f71393 
+WC01__Island_ar336a_en 8a2d0438-6681-40e4-8786-04af3d4a169a 
+WC01__Urborg Volcano_ar330_en 8e2e0a15-59c8-408a-aa0b-1334d51562ec 
+WC01__Forest_jt349_en 8f0fa40d-c6a6-4e2a-9121-4ea6fc8ed5d5 
+WC01__Forest_jt347_en 913e6724-4860-4795-a079-f8141e25f225 
+WC01__Vodalian Merchant_ab85_en 922768fa-b765-4c5e-8f2b-ec7f2c4bbd46 
+WC01__Lord of Atlantis_ab83_en 928c1db7-67f9-4dea-b4c0-1821b1f91bbb 
+WC01__Saproling Burst_jt113_en 93ebc493-451e-495a-8e1e-b972d0abf4c4 
+WC01__Shivan Reef_ar142_en 96e0e3f9-6742-48cd-b042-ff8be70bbdb1 
+WC01__Darting Merfolk_ab72_en 987f9d85-c528-4c3c-8c9f-5bfdffb035e7 
+WC01__Teferi's Response_ab78sb_en 9b9af958-19e1-40a3-a06d-cf0c87655f07 
+WC01__Phyrexian Arena_tvdl47sb_en 9d4f3fc5-eb10-4b50-8a56-8ef7dc7c3db3 
+WC01__Island_ab337_en a2722f0b-db7d-423a-a91d-c72ef595cc32 
+WC01__Island_ar334_en a3a5521a-f9c3-4996-af49-98aaf82afc04 
+WC01__Island_ab337a_en a4369a59-5a39-40f7-b97b-763b575203aa 
+WC01__Island_ab332_en a64934a3-7eba-4a31-9e7a-dc3e8815d46c 
+WC01__Pyroclasm_ar209sb_en aa0e9a0c-7d89-4dde-88c3-130fb4d41fb7 
+WC01__Blazing Specter_tvdl236_en ab17d1ce-cc32-408d-8cd9-fe5a83b76b8c 
+WC01__Teferi's Response_ar78sb_en ae058377-bf24-47a3-bb03-a98b5e0eabc3 
+WC01__Skizzik_tvdl169_en afbccd46-3c9f-4f70-8afd-d8b459ca01b6 
+WC01__Rushing River_ab30sb_en b044bf62-5e59-4c58-ab9e-02666459c9c5 
+WC01__Urza's Rage_tvdl178_en b37d944e-89e7-4b68-b808-2e6d4a45e72e 
+WC01__City of Brass_jt327_en bc126f6b-1118-4021-96ef-e547bde565ce 
+WC01__Duress_ar131_en c6d58c0f-8107-4ddf-8a9a-bd2e5d58d709 
+WC01__Gush_ab82_en c815745d-936b-44af-8c39-361b5db58923 
+WC01__Blood Oath_jt177sb_en c8748a46-7de5-4c7d-84a9-6cf2e8a5c78a 
+WC01__Flametongue Kavu_tvdl60sb_en ca16326b-5405-4698-9cd6-b5dcc7ead788 
+WC01__Duress_ar131sb_en cb715851-cbc7-4891-9e54-3c733906c3db 
+WC01__Mountain_tvdl343_en ce70fbc1-eb96-449b-bc3c-53dc5eb7f3d3 
+WC01__Spiritmonger_jt121_en ce956487-639e-49ea-a48a-e168322398dd 
+WC01__Fact or Fiction_ar57_en cedd799e-514f-4f63-a48f-a505eaf88665 
+WC01__Urza's Rage_ar178_en d05931df-97e7-4d04-b5a9-4db3ff6a109f 
+WC01__Swamp_tvdl342_en d134fdda-a3b7-4379-960a-8d1dd499f335 
+WC01__Llanowar Elves_jt253_en d3455a72-c3c1-45a8-9bb7-c7c9e1c83ed0 
+WC01__Crypt Angel_tvdl97sb_en d3c3dfbe-b520-42fb-af03-bc6c15f7ba92 
+WC01__Tangle_jt213sb_en daed0e25-fdfb-410f-81d1-f79fc9a35e3c 
+WC01__Duress_tvdl131_en db0b7cc4-fcc1-4c14-82c2-e2b3709baa2e 
+WC01__Accumulated Knowledge_ar26_en dd3ccfc6-d642-4ca1-8cab-9178ea51d058 
+WC01__Hibernation_ab79sb_en debd377d-b269-4a6b-a3d3-c8ca4a93859d 
+WC01__Addle_tvdl91sb_en df50a901-d362-4144-8994-0f1cb71e1f08 
+WC01__Kavu Chameleon_jt191sb_en df7718fe-0137-4b0d-95cc-f02813f9d970 
+WC01__Island_ar335b_en e0fbcf00-be89-472e-af7d-495c4550d10d 
+WC01__Island_ab338a_en e2140fd0-4367-4ac6-b42c-7041b9f1d92e 
+WC01__Engineered Plague_ar133sb_en e7f4f2d8-22fe-42a6-8a18-7ac1d4b1d637 
+WC01__Spite // Malice_ar293_en e81e9cef-9c13-4c0d-9590-f7f2899e0320 
+WC01__Waterfront Bouncer_ab114_en e86415a6-fd4c-4f04-ab0f-685ef062245a 
+WC01__Tsabo's Decree_ar129_en ea674ba3-71a9-4955-b9d7-d1fa97eff18c 
+WC01__Counterspell_ar69_en ec4fb462-9226-43cb-862f-7467762e6c8b 
+WC01__Forest_jt347a_en eeacc55d-d548-498a-8bc6-ac1ddcade841 
+WC01__Thwart_ab108_en f1cc5242-5263-4c94-85dd-1355d354418c 
+WC01__Island_ab335_en f398f676-f079-44b9-a6c4-5a9d5dd6bbdc 
+WC01__Meekstone_ar307sb_en f564f0da-db47-4552-be85-c29297809c7d 
+WC01__Island_ar335a_en f7919aa3-044d-42b2-800f-a6e3226efe77 
+WC01__Dark Ritual_tvdl129_en fc10a108-dd8f-4dd5-9189-27a009bad1e3 
+WC01__Boil_jt177sba_en fc807868-bf6f-4d62-8ca3-51ec6c507df7 
+WC01__Swamp_tvdl339_en ff6e4fd4-ca86-420b-b731-22d417a55b29 
+WC02__Forest_rl349_en 0031d026-9e9a-46f6-8204-1acfee8b8809 
+WC02__Phantom Nishoba_bk140sb_en 04f0772d-44c4-4795-ac07-5fa15751ae53 
+WC02__Yavimaya Coast_rl143_en 04f1014e-8a66-4fec-9d5d-d03e9d935da2 
+WC02__Werebear_rl282_en 055b8b4e-4ff8-4526-9abc-ac2fa0dcf1b7 
+WC02__Anurid Brushhopper_bk137_en 097c7637-ab37-4d99-9828-d53bdd849924 
+WC02__Roar of the Wurm_shh266sb_en 0c315523-a023-42f3-9906-690d90eb99dd 
+WC02__Intrepid Hero_bk22sb_en 0d346531-7751-4e51-867a-49bf3ea5d305 
+WC02__Forest_bk348_en 102c2350-4929-4c81-8823-4b3e62e22dd4 
+WC02__Call of the Herd_bk231a_en 10ceae44-9739-4175-a215-df22691ec3b3 
+WC02__Repulse_rl70sb_en 11045a32-7b59-4e98-96b9-8c26b2e0ca4d 
+WC02__Mountain_bk343_en 111036dd-e295-4786-a372-fc7f71171cf7 
+WC02__Island_rl338_en 11d4b4bd-270e-4f8e-a93e-1321794f950a 
+WC02__Fire // Ice_bk128_en 12279d5e-eff2-45bd-bb56-a953b56ff76a 
+WC02__Upheaval_cr113_en 14768d98-5b53-4bba-b0d2-09c92da664d4 
+WC02__Roar of the Wurm_rl266_en 14fb6b62-ecec-45c6-bf2e-45070370f0e1 
+WC02__Coffin Purge_cr124sb_en 171edc1c-47ca-4da1-81b3-736d2083bda3 
+WC02__Simoon_shh272sb_en 193ae8e0-5c06-499c-95db-c0c2a8d36924 
+WC02__Ray of Revelation_shh20sb_en 1a78b650-a844-4423-9229-1e109bd1574e 
+WC02__City of Brass_bk327sb_en 21eb644f-dfc8-45b1-a964-a5bec9004580 
+WC02__Counterspell_cr67_en 22b31ea9-f967-4e5a-b293-c7773cc4a0ba 
+WC02__Forest_rl347_en 253f6297-e76c-4003-8ddf-3fb5f2072384 
+WC02__Genesis_bk117sb_en 2640ff4e-c022-46ed-a4d2-a4bae6a43f05 
+WC02__Forest_shh350_en 2968cde0-300e-4f59-859f-a7fc189f8943 
+WC02__Squirrel Nest_shh274_en 29788426-7a12-4a04-8dbe-c434445b8e0f 
+WC02__Glory_bk11sb_en 2a9c7fca-304a-43cf-80a9-cfb8c72d43fa 
+WC02__Island_rl336_en 2d1f5b46-7217-4d43-aaa7-29ff2f7777fb 
+WC02__Birds of Paradise_bk231_en 2eb0de65-969f-494a-9cf5-bfa59a7acdb4 
+WC02__Forest_rl329_en 31d44ab0-ca04-4b92-bbfd-587640db5552 
+WC02__Island_rl332_en 3220f1ba-748e-4e74-89e9-0a2d137c100e 
+WC02__Island_cr332_en 3310cdcb-7906-4f86-829e-4383c59fbcbf 
+WC02__Circular Logic_cr33_en 34324e67-491f-4a42-9498-04c854fc9d0d 
+WC02__Repulse_cr70_en 35955786-bb84-4b0d-b162-c0aae43bfc32 
+WC02__Forest_shh330_en 384cbc4a-c955-45df-98fd-d448e574c130 
+WC02__Quiet Speculation_shh49sb_en 3a75b57d-1527-4918-bb56-79e3e546f8be 
+WC02__Genesis_rl117_en 3af1d404-6147-4061-a76a-4d0085825b95 
+WC02__Island_shh338_en 3bc773e7-ee87-4462-9745-1e62458e45ed 
+WC02__Forest_bk328_en 4118a9af-0aa0-439e-a92e-39f7c04469b7 
+WC02__Island_cr338_en 437d6d2d-2eee-4917-b16b-1b0df759ade0 
+WC02__Island_shh335_en 454f304a-971d-418c-9645-d1678996f3cb 
+WC02__Forest_rl328_en 47ccb7e9-3fb2-4460-b0c4-e07e3186ce66 
+WC02__Slay_cr55sb_en 49a9fdf6-695a-416b-979c-8574caedd471 
+WC02__Merfolk Looter_shh89_en 49f8a9d3-c74a-4ca0-b1f1-15c30aeb8ab0 
+WC02__Plains_bk341_en 4a818aaa-7a8b-4547-aa2a-052af21b815d 
+WC02__Island_cr337_en 4b10739a-0ebd-432a-b346-385726b453a7 
+WC02__Island_rl333_en 50128873-7c99-4dfe-8c5c-e6e114ffbd5c 
+WC02__Brushland_bk326_en 553c92f8-5645-42a7-ab6e-ec928c393d21 
+WC02__Careful Study_rl70_en 59d28041-1ca2-4fba-a802-72e0ba592165 
+WC02__Rushing River_rl30_en 5a05d320-ed9a-40c8-b059-c5e6aaac44ee 
+WC02__Forest_rl348_en 5ab2fcc5-7207-4c53-aadc-4359d5abdebf 
+WC02__Plains_bk333_en 5ceff685-b416-43a2-a44e-ae6f0afd45b0 
+WC02__Gainsay_shh26sb_en 5d65d126-a225-434d-93e9-37c04897acda 
+WC02__Living Wish_bk124_en 5e8dd17c-11ab-4be7-8832-29f3f3812f91 
+WC02__Island_cr335b_en 5e9ec30b-2c02-4c00-b769-2f68b864261a 
+WC02__Duress_cr131sb_en 5fd00745-d8ab-4af2-b0cf-0afab496d177 
+WC02__City of Brass_bk327_en 61d821f2-ea9e-4b11-8d9e-d085396dd157 
+WC02__Island_rl336a_en 64398521-073f-4835-b6ca-801bf8965466 
+WC02__Forest_bk330_en 643dbf69-1e84-4037-b582-f825e4e6c78e 
+WC02__Disrupt_rl51sb_en 66267d8b-f763-4309-b30d-0d32ee91945c 
+WC02__Sylvan Safekeeper_bk133sb_en 6652d9bc-4916-4b90-9c6b-55dc382e7ee3 
+WC02__Island_rl337a_en 6b62f26c-d875-43ff-bb27-71305f3994df 
+WC02__Yavimaya Coast_shh143_en 6c726c70-058d-4d11-92ec-50348b1048c4 
+WC02__Gainsay_cr26sb_en 6f49e469-3022-45a5-9493-e0b662805ee7 
+WC02__Darkwater Catacombs_cr319_en 70553314-24ce-4c14-bc3b-85fc0c20bf3b 
+WC02__Mana Short_cr86sb_en 75b7d17b-d702-47d2-865e-cfbdc74627ff 
+WC02__Island_rl334_en 7692114d-2614-47fd-8716-0cd325a9f19f 
+WC02__Llanowar Elves_bk253_en 7707fcf6-e99e-4264-97c7-b2760ce50d79 
+WC02__Recoil_cr264sb_en 797e3efa-0956-49b6-bf7b-3d27466b1279 
+WC02__Karplusan Forest_bk336_en 7b099700-d150-413e-a926-207d326a0c3d 
+WC02__Rushing River_rl30sb_en 88abd79d-ca38-4960-a2d6-c97655de99b3 
+WC02__Cephalid Coliseum_cr317_en 8a5f2bbc-fe5f-40e9-9610-6297607822a0 
+WC02__Salt Marsh_cr326_en 8be7836e-adcb-435a-b65a-6675a5606f99 
+WC02__Deep Analysis_shh36_en 9288a7d7-63bd-480d-90af-76da95c7e221 
+WC02__Compost_rl235sb_en 94236a68-c989-4759-a432-611e40002555 
+WC02__Flametongue Kavu_shh60sb_en 95ff13b8-ffea-4b86-b45b-543af976bcd5 
+WC02__Flametongue Kavu_shh60_en 9629fcaa-2ef5-404c-ae46-a440cac73b06 
+WC02__Chainer's Edict_cr57_en 98738c04-27d3-4eab-b0da-cac6f79c4cd0 
+WC02__Forest_bk329_en 99fe8645-9bb9-40ce-aace-94c2942b3ff6 
+WC02__Mental Note_rl46_en 9a3c72e5-056e-4687-a5ab-d64d425d598e 
+WC02__Simoon_bk272sb_en 9a978bd2-d6df-4642-baeb-d375b04e8db6 
+WC02__Island_rl337_en 9b717e59-7f94-4ccb-8374-f65ea2dd9e58 
+WC02__Hibernation_cr79sb_en 9ce74013-3a6c-4ba8-956f-f6b8c863451f 
+WC02__Forest_shh347_en 9d12fcc7-93e4-4bc6-be4e-b383b0e75f7e 
+WC02__Phantom Centaur_shh127_en 9f25dff9-3dcd-4d41-99a1-bcb893e623e3 
+WC02__Island_cr336_en 9f2c1082-43bb-41fe-be85-f7153d098eb4 
+WC02__Island_cr337a_en a3795f0c-e978-428f-b6b8-c226b58951c8 
+WC02__Forest_shh329_en a5a56694-71fe-4174-8eea-5ab832d6caf6 
+WC02__Birds of Paradise_shh231_en a6b02ce2-39ba-4116-aefa-dd4d8e51bf6a 
+WC02__Global Ruin_bk18sb_en a8a77b41-b03c-43e3-8f49-1e7755b1cbfa 
+WC02__Swamp_cr342_en a8af7440-779d-4206-a543-a857292850b1 
+WC02__Forest_shh328_en aad57826-fe67-4d8f-b22d-49078804ae1a 
+WC02__Fact or Fiction_cr57a_en ab68ede5-02b3-4d9f-b12f-debc0754b40f 
+WC02__Breakthrough_rl26_en aceeb1f7-d780-4da5-87b6-0be4f136c2e6 
+WC02__Nightscape Familiar_cr48_en ae15a495-e08e-41a4-bb59-893876697d12 
+WC02__Swamp_cr341_en b0673fff-345d-4384-a63e-ace7740e20c3 
+WC02__Island_cr334_en b0beccf0-eea9-4339-b6c5-00761551c193 
+WC02__Opposition_shh92_en b34bc2c7-a03b-4016-a43d-0d0b17929f2e 
+WC02__Forest_rl331_en b59a8070-3bbd-4b81-855c-1c31486ff496 
+WC02__Shivan Reef_shh142_en b6ecefb7-d7f3-40ba-9afc-c864f1986471 
+WC02__Cunning Wish_cr37_en ba43e6c0-375c-425d-bcf8-cc64b6cfdab1 
+WC02__Reprisal_bk33sb_en bb64c4cb-41bd-4b8f-aef4-0ad0a6e283bf 
+WC02__Forest_rl330_en bc476125-60d0-4a3a-bcf8-6e2e09d11179 
+WC02__Wild Mongrel_shh283_en bc7cca9e-6e07-4826-a782-ed114f45d727 
+WC02__Island_rl335_en be0f315e-6a42-4913-af21-93eb50c66d63 
+WC02__Phantom Centaur_bk127_en c065f23e-075c-4648-b89b-4a42750eef09 
+WC02__Ghastly Demise_cr139sb_en c1cae244-923e-4bcb-b79b-e11693167e12 
+WC02__Phantom Centaur_rl127sb_en c32a21c0-acaa-4701-8347-edf961827c08 
+WC02__Thornscape Battlemage_bk94sb_en c44dc960-763b-47b1-b40b-292eacdeb1ce 
+WC02__Forest_shh331_en c53e6980-5d2f-42d2-a98e-49c9c8779dcb 
+WC02__Island_cr335a_en c727a648-3ad1-428e-902f-52ad6a6f1c4c 
+WC02__Karplusan Forest_shh336_en c8239a66-c058-4bd0-84c0-402d439e9d42 
+WC02__Nimble Mongoose_rl258_en c878bd26-a588-4d13-b9a0-14c64c73ce13 
+WC02__Teferi's Response_cr78sb_en ca603260-6bda-436b-b6d3-792cf4a9a13d 
+WC02__Forest_bk331_en ca6a30d9-0cee-40d0-85b5-3b3d366de5c1 
+WC02__Flametongue Kavu_bk60_en cc71093d-78d5-440e-9882-8854b685ac29 
+WC02__Glory_bk11_en cf15ac9c-0e20-43bd-a957-8591020e6434 
+WC02__Seton's Scout_rl138_en cf1762dd-ea13-41b4-ba80-a1651c067f6b 
+WC02__Forest_bk347_en cfff8acb-e330-4819-a7e4-eec27645cba2 
+WC02__Thunderscape Battlemage_bk75sb_en d1d6778a-261d-467d-8f1d-488ef6cfa776 
+WC02__Psychatog_cr292_en d3622975-51e0-499b-8be1-844bb204281c 
+WC02__Ray of Revelation_rl20sb_en d62c9424-a2a9-42cd-938d-39d35577dc80 
+WC02__Wax // Wane_bk296_en d9064b95-04cb-4ba8-9db0-f5fd245f09df 
+WC02__Memory Lapse_cr88_en da92f1d2-3803-4d19-bf2e-52229939fed8 
+WC02__Island_shh337_en dc1d6d81-d825-446c-a862-c9b517837801 
+WC02__Forest_rl350_en de0da109-d1fd-447f-9684-5425f5a7d22d 
+WC02__Circular Logic_shh33_en e06b8745-cbbe-4a0c-9158-f45cf4df29d7 
+WC02__Wild Mongrel_bk283_en e6273be2-c515-4183-a8d3-23de64d99365 
+WC02__Mountain_bk346_en e91e2641-70cf-4055-8749-2c2826af816a 
+WC02__Island_shh334_en ea01e610-43b8-44a3-9480-14f92f68a0b5 
+WC02__Island_cr333_en ea2e4498-a91e-48b0-b14f-a7917241160b 
+WC02__Swamp_cr340_en ec08dcdb-7b8a-4ffd-b7d6-27e5961c1763 
+WC02__Plains_bk331a_en ec9451d7-adec-4199-9a95-44b91ebf8681 
+WC02__Fire // Ice_shh128_en ef5df76e-1482-4677-a932-54b92384c3c3 
+WC02__Forest_bk349_en f0001e85-68ed-4a76-bcdb-dd57f507a6b6 
+WC02__Forest_shh348_en f3ae3313-19c7-4a76-aea3-a19bacf5f6f8 
+WC02__Island_cr335_en f3df2707-e262-470a-a91e-7e588da90ce6 
+WC03__Goblin Warchief_we97_en 00e4415d-1c71-41bc-84f2-2eee6367c49b 
+WC03__Zombify_pk174_en 041714bd-6efd-4742-a712-72d0e7f588b6 
+WC03__City of Brass_we322_en 0480fbbd-9095-4634-9e8d-e859790f0950 
+WC03__Forest_dh350_en 07531062-8a83-4716-8416-11565908143f 
+WC03__Decree of Justice_dz8_en 0cb5f2df-9a5c-4fdf-8bb3-24d4d670768b 
+WC03__Patriarch's Bidding_we161_en 0d7bb46e-430f-4e59-80d0-0ea4f315d540 
+WC03__Phantom Nishoba_pk190_en 0ea2bed7-2344-4fc9-ba1e-99bed67fec9d 
+WC03__Roar of the Wurm_dh266_en 120991a3-0ceb-42f8-b912-4e9c7a9ea9ef 
+WC03__Mirari's Wake_dz139_en 12ccf093-2609-4106-9898-cc00f36df94f 
+WC03__Krosan Verge_dz141_en 15f70ddb-3b08-44fb-8060-37e429a15feb 
+WC03__Stitch Together_pk72sb_en 1781bc52-7dd5-4302-8d8e-95319a25981d 
+WC03__Cabal Therapy_pk62sb_en 186a6db2-caf7-4e29-a3e3-6ba93402cd33 
+WC03__Quiet Speculation_dh49_en 18a79cf6-1d92-4693-a390-1b0d2466716c 
+WC03__Undead Gladiator_pk178_en 192187c6-8ad4-41cb-8000-8df3e80c739b 
+WC03__Centaur Garden_dh316_en 1ab33858-17ac-42e9-941c-1bf2409030f5 
+WC03__Forest_dz348_en 1c01e4ce-5d77-4bbb-9df8-39cd3a2f9e6e 
+WC03__Smother_we170sb_en 1d87e268-daab-4bf5-952c-a3baf82beb11 
+WC03__Forest_dz349_en 1db496f2-6b64-4d9c-baac-b3788c632629 
+WC03__Island_dz336_en 21e00fd6-2d12-4ad0-aa8b-21622490a730 
+WC03__Unsummon_dh112sb_en 22b571f3-3cf8-46c6-9bd9-40509d5c9374 
+WC03__Circular Logic_dz33sb_en 22cfea74-06d2-4733-bce2-f93f6860f185 
+WC03__Plains_dz332_en 24dfb372-0fa8-4c50-adc2-31de4e3fb24e 
+WC03__Soul Feast_pk165sb_en 25c45df3-9b32-4c09-8ff6-4d8aaa9c28f5 
+WC03__Haunting Echoes_pk142sb_en 29de3d0b-5fd6-4b32-beb5-45ddca3474e0 
+WC03__Circular Logic_dz33_en 2b5836fd-a29c-423c-94dc-777d0b80b279 
+WC03__Mountain_we346_en 2d78f1af-120f-4929-94ed-624ee1f2447a 
+WC03__Mana Leak_dh89sb_en 2eab0cc3-408f-4cd6-94c9-76a645d5c6a4 
+WC03__Smother_pk170_en 2eca3272-bee7-4bec-8830-e7f5c5452a8f 
+WC03__Recoup_pk216_en 32d7c3e4-d86c-4c4b-977d-f903c7c953ff 
+WC03__Cunning Wish_dz37_en 335358c5-1909-4290-ad44-e590c0b10fb0 
+WC03__Hunting Pack_dz121sb_en 33bdda6c-d32c-4666-b885-039eccc5a2ef 
+WC03__Ray of Revelation_dh20sb_en 33e1c83b-27d1-4c24-9e57-5dd6b7c8bf14 
+WC03__City of Brass_dh322_en 35435f08-f3d5-404e-8365-c92b3a98ce26 
+WC03__Stitch Together_pk72_en 36a63b9a-3f15-4c49-b4da-4590619aa0fc 
+WC03__Plains_dz333_en 3b40b21b-eae1-4996-98ff-4621faf544b7 
+WC03__Barren Moor_pk312_en 4514d09f-9e7a-42cd-83ac-510885afdbb3 
+WC03__Bloodstained Mire_we313_en 45277efb-de6d-42f1-b84f-680e4441b9f9 
+WC03__Sickening Dreams_pk83sb_en 4640655d-0f39-4cb7-8e44-5ff2ea0c4e36 
+WC03__Island_dh337_en 48d19385-02f2-4f45-b148-81993bcd00e9 
+WC03__Swamp_pk339_en 4ebf5f38-527b-4f7d-9980-4aca116e5b88 
+WC03__Recoup_pk216sb_en 5524a198-fc47-40ff-9b82-36635db19fb3 
+WC03__Swamp_we342_en 5629fcbc-5003-4198-8bef-45845faba258 
+WC03__Forest_dh348_en 56835242-ce4b-433e-8c8b-a2749eab59de 
+WC03__Symbiotic Wurm_pk289_en 592eeacb-9f9d-4072-9e68-7d21020da290 
+WC03__Island_dh336_en 5a96f344-4940-47d1-99fd-0a489b33d25b 
+WC03__Stupefying Touch_dh48sb_en 5ad758ab-c591-4360-80c7-b67268c78b9f 
+WC03__Vengeful Dreams_dz21_en 5e87c71b-6596-4cb1-9e53-c5325aa80770 
+WC03__Gempalm Incinerator_we94_en 60563301-c66e-47d9-8f27-f06bfc6210aa 
+WC03__Circular Logic_dh33_en 60e0ad2e-da32-4712-9e33-d3579b498fd8 
+WC03__Arrogant Wurm_dh120_en 66dbdf69-dae1-464f-919e-e0885674137e 
+WC03__Decompose_pk128sb_en 69adbe07-aee3-47ef-b02f-4644a006949f 
+WC03__Swamp_we339_en 6b65be65-d32e-42b5-98ee-d53556f17c29 
+WC03__Deep Analysis_dh36sb_en 6c0224c2-255e-4fc1-9e55-5942bc3e3364 
+WC03__Moment's Peace_dz251_en 70d1977c-edaf-4085-bc42-0e2b041b9b77 
+WC03__Innocent Blood_pk145_en 7261ad57-2680-428a-a758-defd00783047 
+PHEL__Avacyn, Angel of Hope_PROMO_6_en 446f001c-2164-4c3e-8017-5f4ea33e5d08 
+PHEL__Sigarda, Host of Herons_PROMO_210_en 5d7b3923-7740-433e-bfbb-1898923eafe8 
+PHEL__Gisela, Blade of Goldnight_PROMO_209_en 95a576a5-e873-4f27-93df-d363fc5945d0 
+PHEL__Bruna, Light of Alabaster_PROMO_208_en c1995b46-cd88-470d-89ec-37ffb6596348 

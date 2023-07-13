@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% block head %}
+    {% endblock %}
+  </head>
+
+{% block content %}
+<div class="">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <section class="section">
+    <div class="container">
+    <table  
+      style = "padding-top: 20px;
+              padding-bottom: 50px;">
+      <thead>
+        <tr>
+          <b>Validate this listing </b>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+            <td><b>Listing Title:</b></td>
+            <td>{{content.listing_title}}</td>
+        </tr>
+        <tr>
+          <td><b>Winning Bid:</b></td>
+          <td>{{content.winning_bid}}</td>
+        </tr>
+        <tr>
+          <td><b>Number of bids:</b></td>
+          <td>{{content.num_of_bids}}</td>
+        </tr>
+        <tr>
+          <td><b>Listing Date:</b></td>
+          <td>{{content.listing_date}}</td>
+          </tr>
+        <tr>
+          <td><b> Listing URL:</b></td>
+          <td>
+            <a href= "{{ content.listing_url }}"> {{ content.listing_url }} </a>  
+          </td>
+          </tr>
+
+      </tbody>
+      
+      {% for image in content.valid_s3_urls %}
+      <td><img src="{{image}}" 
+        style= "max-height:300px;"/></td>
+      {% endfor %}
+      <hr style="width:50%;text-align:left;margin-left:0">
+    
+    <div>
+    {% for item in content.generic_items %}
+    <table style = "padding-bottom: 50px;
+                    display:inline;
+                    padding-right:50px">
+      <thead>
+        <tr>
+          <th><u> Match {{ loop.index }} </u></th>
+        </tr>
+      </thead> 
+      <!-- <hr style="width:50%;text-align:left;margin-left:0"> -->
+
+      <tbody>   
+          <tr><td><b>{{ item.name }}</b></td></tr>
+          <tr><td><b>{{ item.rarity }}</b></td></tr>
+              <tr><td><b>{{ item.item_index }}</b></td></tr>
+              <tr><td><img src = "{{ item.image_uri_normal }}"
+                style = "padding-bottom: 50px;
+                              display:block;
+                              width:300px;
+                              "/></td></tr>
+      </tbody>
+      
+      </table>
+      
+      {% endfor %}
+      </div>
+        
+      <!-- Make a submit form -->
+      <form action="/validate_listing" method="POST">
+        <label> Comment: </label>
+        <input type="text" name="user_comment" value = "">
+          <select name="user_selected_generic_id">
+            <option value="0" SELECTED> WRONG </option>
+              {% for item in content.generic_items %}
+                <option value="{{ item.id }}"SELECTED>{{ item.name }}</option>
+              {% endfor %}   
+          </select>
+        
+        <input type="hidden" 
+          name="listing_id"
+          value="{{ content.listing_id }}">
+        <input type="hidden", name="user_approval", value="1">
+        <div style ="padding-top:20px;">
+          <button class="myMismatchButton" name="is_match" value=false type="submit" 
+           >WRONG</button>
+          <button class="myMatchButton" name="is_match" value=true type="submit">
+            MATCH</button>
+        </div>
+      </div>
+        
+          </form>
+   
+    
+  </section>
+  </div>
+{% endblock %}
+</html>

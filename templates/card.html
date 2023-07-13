@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<br /><br />
+<a href="{{ card['scryfall_uri'] }}"><img src="{{ card['image_uri_normal'] }}"></a><br />
+card_index: {{ card['item_index']}}
+<br /><br />
+<br /><br />
+  <table id="card" border=1>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Merchant</th>
+      	<th>Offer Amount</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for offershistory in offers_history_query %}
+        <tr>
+          <td>{{ offershistory.last_updated }}</td>
+          <td>{{ offershistory.merchant }}</td>          
+          <td>{{ "${:,.2f}".format(offershistory.amount) }}</td>
+          <td>{{ offershistory.condition }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+{% endblock %}

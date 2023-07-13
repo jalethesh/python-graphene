@@ -1,0 +1,25 @@
+us_code,eu_code,type
+MINT,MINT,regular
+NM,NM,regular
+LP+,EX,regular
+LP,GD,regular
+LP-,LP+,regular
+MP+,LP,regular
+MP,LP-,regular
+MP-,PL+,regular
+HP+,PL,regular
+HP,PL-,regular
+POOR,POOR,regular
+DAMAGED,POOR,regular
+FOIL_NM,FOIL_NM,foil
+FOIL_LP,FOIL_LP,foil
+FOIL_MP,FOIL_MP,foil
+FOIL_HP,FOIL_HP,foil
+BGS 7.0,BGS 7.0,slabbed
+BGS 8.0,BGS 8.0,slabbed
+BGS 8.5,BGS 8.5,slabbed
+BGS 9.0B,BGS 9.0B,slabbed
+BGS 9.0,BGS 9.0,slabbed
+BGS 9.5,BGS 9.5,slabbed
+PSA 9,PSA 9,slabbed
+PSA 10,PSA 10,slabbed

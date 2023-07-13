@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <table id="scryfall_cards" border=1>
+    <thead>
+      <tr>
+      	<th>image</th>
+        <th>card</th>
+        <th>set</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for card in card_data %}
+          <td><img src="{{ card['image_uri_small'] }}"></td>
+          <td><a href="/sets/{{ set_name }}/{{ card['name'].replace(' ', '_') }}">{{ card['name'] }}</a></td>
+          <td>{{ card['set'] }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+<br />
+  Offers:
+  <table id="scryfall_cards" border=1>
+    <thead>
+      <tr>
+        <th>merchant</th>
+        <th>offer</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for offer in card_offers %}
+          <td>{{offer}}</td>
+          <td>{{offer.name}}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+<br />
+
+{% endblock %}

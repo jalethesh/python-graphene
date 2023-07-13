@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <table id="set_data" border=1>
+    <thead>
+      <tr>
+        <th>Symbol</th>
+        <th>Name</th>
+        <th>Code</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for set in set_data %}
+        <tr>
+          <td><img src="{{ set['icon_svg_uri'] }}" onerror="this.style.display='none'"/>
+          <td><a href="/sets/{{ set['name'].replace(' ','_') }}">{{ set['name'] }}</a></td>
+          <td>{{ set['code'] }}
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

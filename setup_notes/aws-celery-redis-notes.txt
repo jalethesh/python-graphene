@@ -1,0 +1,127 @@
+# general usage of aws instance (scroll down for first time setup)
+
+# login
+# we will need to add any devs that want ssh access to this server to the relevant security group
+# this includes getting their IP and adding a new security rule in the security group
+# connect to redis-server with your favorite ssh client, I like gitbash, lots of window ppl like putty
+# the .pem file will need to be shared from a trusted source (maybe Dylan, maybe Anx)
+# the address can be found by browsing to the ec2 instance manager page in AWS console
+# ubuntu is the default user for a new ubuntu instance
+ssh -i "celery-redis-dev.pem" ubuntu@ec2-18-217-163-178.us-east-2.compute.amazonaws.com
+
+# to port forward using git bash
+ssh -L 127.0.0.1:6379:ubuntu@ec2-18-217-163-178.us-east-2.compute.amazonaws.com:6379 -i "celery-redis-dev.pem" ubuntu@ec2-18-217-163-178.us-east-2.compute.amazonaws.com
+
+# presumably the containers are up and running
+# redis CLI - operating on port 6379
+docker exec -it my-redis redis-cli
+
+# we are now on the redis CLI
+# do an echo command to test it
+127.0.0.1:6379> ECHO "Hello World!"
+"Hello World!"
+
+# celery status
+docker exec -it my-celery celery inspect active
+
+# restart a docker container
+docker restart my-redis
+docker restart my-celery
+
+
+
+
+
+#####################################################################################
+# THIS IS FOR FIRST TIME SERVER SETUP
+
+# we will need to add any devs that want ssh access to this server to the relevant security group
+# this includes getting their IP and adding a new security rule in the security group
+# connect to redis-server with your favorite ssh client, i like gitbash, lots of window ppl like putty
+# the .pem file will need to be shared from a trusted source (maybe Dylan, maybe Anx)
+# the address can be found by browsing to the ec2 instance manager page in AWS console
+# ubuntu is the default user for a new ubuntu instance
+ssh -i "celery-redis-dev.pem" ubuntu@ec2-18-217-163-178.us-east-2.compute.amazonaws.com
+
+# first time docker setup
+# first update system apt
+sudo apt update
+
+# upgrade packages managed by apt (snap)
+sudo apt upgrade
+
+# refresh snap to latest stable version available for platform (docker requires > 2.50)
+sudo snap refresh
+
+# snap is a package manager like apt, but installing docker from snap is 100x easier than apt
+sudo snap install docker
+
+# now we're going to create a docker group users dont have to use sudo all the time
+sudo groupadd docker
+
+# username by default on ubuntu server is ubuntu
+# in general command here is sudo usermod -aG docker $USER
+sudo usermod -aG docker ubuntu
+
+# restart system to let changes take effect
+sudo reboot
+
+# re-connect via ssh
+ssh -i "celery-redis-dev.pem" ubuntu@ec2-18-217-163-178.us-east-2.compute.amazonaws.com
+
+# https://hub.docker.com/_/redis
+# pull a docker-redis image from dockerhub
+docker pull redis
+
+# launch a redis docker instance with persistent storage, copy the hash here. you can also reference 
+# the instance via the name given. here it is "my-redis"
+docker run --name my-redis -p 6379:6379 -d redis redis-server --appendonly yes
+> 3aaf63964e16eee3d0971a199a1fe19be21fb76914efd00e4d6e64bd97fb61bc
+
+# these containers get mapped to a local subnet (a network space available only from inside the server)
+# query docker for the IP and copy the local IP here for reference
+docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' my-redis
+> 172.17.0.2
+
+# connect to it via the cli
+# reference https://docs.docker.com/engine/reference/commandline/run/
+docker exec -it my-redis redis-cli
+127.0.0.1:6379>
+
+# we are now on the redis CLI
+# do an echo command to test it
+127.0.0.1:6379> ECHO "Hello World!"
+"Hello World!"
+
+# leave the CLI to get back to the linux CLI
+127.0.0.1:6379> exit
+
+###########################################
+# if you make some mistake and need to reconfigure a container you must kill and remove it
+# then do a docker run command to launch the new configuration
+docker kill my-container
+docker rm my-container
+###########################################
+
+# lets do celery now
+# pull the docker image from docker hub
+# https://hub.docker.com/_/celery
+docker pull celery
+
+# if you make some mistake and need to reconfigure a container you must kill and remove it
+docker kill my-celery
+docker rm my-celery
+
+# start a celery worker thread that is connected to redis
+# copy hash here for reference, can also reference by name "my-celery"
+docker run --link my-redis:redis -e CELERY_BROKER_URL=redis://redis --name my-celery -d celery
+> 5d34f0b22d13fa76cffe29d4b85741b3905a37ad3341769da92db987cdc0762e
+
+# go into the container and use the container's CLI to inspect the celery worker's status
+docker exec -it my-celery inspect active
+-> celery@5d34f0b22d13: OK
+    - empty -
+
+# NICE 
+ 
+ 

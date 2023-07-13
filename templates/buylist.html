@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <form method="POST" action="/buylists/create">
+
+    <table id="buylist-table-0" border=1>
+      <tr>
+        <H3>Buylist Settings</H3>
+      </tr>
+      <thead>
+        <tr>
+          {% for field in form if field.widget.input_type != 'hidden' and field.name in ["buylist_name"] %}
+            <th>{{ field.label }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          {% for field in form if field.widget.input_type != 'hidden' and field.name in ["buylist_name"] %}
+            <th>{{ field }}</th>
+          {% endfor %}
+        </tr>
+      </tbody>
+    </table>
+
+    <table id="buylist-table-1" border=1>
+      <tr>
+        <H3>User Information</H3>
+      </tr>
+      <thead>
+        <tr>
+          {% for field in form if field.widget.input_type != 'hidden' and field.name in ["username", "email", "discord"] %}
+            <th>{{ field.label }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          {% for field in form if field.widget.input_type != 'hidden' and field.name in ["username", "email", "discord"] %}
+            <th>{{ field }}</th>
+          {% endfor %}
+        </tr>
+      </tbody>
+    </table>
+
+    <table id="buylist-table-2" border=1 title="Reservations">
+      <tr>
+        <H3>Reservations</H3>
+      </tr>
+      <thead>
+        <tr>
+          <th>{{ "Selection" }}</th>
+          <th>{{ "Condition" }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for form in form.reservation_selection %}
+          <tr>
+            <td>{{ form.selection }}</td>
+            <td>{{ form.condition }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <table id="buylist-table-3" border=1>
+      <tr>
+        <H3>Trade-Ins</H3>
+      </tr>
+      <thead>
+        <tr>
+          <th>{{ "Selection" }}</th>
+          <th>{{ "Condition" }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for form in form.reservation_selection %}
+          <tr>
+            <td>{{ form.selection }}</td>
+            <td>{{ form.condition }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    <input type="submit" value="Create Buylist">
+  </form>
+{% endblock %}

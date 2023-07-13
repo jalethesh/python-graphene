@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="form-wrapper">
+    <h2 class="title">Search</h2>
+
+    <form action='/search_result', method="GET">
+        <input type="text", name="search_query", size="20" />
+        <input type="submit"/>
+
+    </form>
+  </div>
+{% endblock %}
